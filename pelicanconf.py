@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
@@ -19,11 +20,11 @@ DELETE_OUTPUT_DIRECTORY = False
 USE_FOLDER_AS_CATEGORY = True
 
 DEFAULT_LANG = u'en'
-STATIC_PATHS = [ 'images', 'js' ]
+STATIC_PATHS = [ 'images', 'js','extra']
 IGNORE_FILES = ['.#*', '*~']
 GITHUB_URL = 'http://github.com/EvanMisshula/'
 
-STATIC_PATHS = ['extra']
+
 
 TWITTER_USERNAME = 'EMisshula'
 
