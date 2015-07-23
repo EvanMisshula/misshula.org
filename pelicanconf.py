@@ -1,6 +1,6 @@
-
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
+
 from __future__ import unicode_literals
 
 AUTHOR = u'Evan Misshula'
@@ -48,8 +48,8 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 
 # Social widget
 SOCIAL = (('twitter', 'https://twitter.com/emisshula'),
-          ('github', 'https://github.com/EvanMisshula'),
-          ('linkedin','http://www.linkedin.com/pub/evan-misshula/20/5b/810‎'),)
+         ('github', 'https://github.com/EvanMisshula'),
+         ('linkedin','http://www.linkedin.com/pub/evan-misshula/20/5b/810‎'),)
 
 DEFAULT_PAGINATION = 10
 
