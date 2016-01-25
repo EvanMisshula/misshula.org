@@ -1,0 +1,8 @@
+#Custom
+output/
+plugins/
+themes/
+*.pid
+*~
+*.pyc
+*#
