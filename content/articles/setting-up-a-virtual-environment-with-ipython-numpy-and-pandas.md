@@ -18,47 +18,46 @@ not cover [IPython](http://ipython.org/), I will repeat the steps here.
 
 I use apt-get in ubuntu so type
 
-    $ cd ~
-    
-    $ sudo apt-get install libsqlite3-dev libbz2-dev libxml2-dev libxslt-dev curl
+    cd ~
+    sudo apt-get install libsqlite3-dev libbz2-dev libxml2-dev libxslt-dev curl
 
 Then get pythonbrew:
 
-    $ ``curl -kL http://github.com/utahta/pythonbrew/raw/master/pythonbrew-install | bash``
+    ``curl -kL http://github.com/utahta/pythonbrew/raw/master/pythonbrew-install | bash``
 
 This line gets the repository and executes through bash. We will need
 to modify the configuration file for bash.
 
-    $ echo "source $HOME/.pythonbrew/etc/bashrc" >> ~/.bashrc
+    echo "source $HOME/.pythonbrew/etc/bashrc" >> ~/.bashrc
 
 Don't forget the dot in `.bashrc`. Now nothing changes until this file is
 executed by the operating system:
 
-    $ source .bashrc
+    source .bashrc
 
 This should complete with no errors. The next step is to install python
 2.7.3. It is going to take a few minutes to complete.
 
-    $ pythonbrew install --verbose 2.7.3
+    pythonbrew install --verbose 2.7.3
 
 And now we have to tell the system to use this new version of python
 
-    $ pythonbrew use 2.7.3
+    pythonbrew use 2.7.3
 
 # Install virtualenv and virtualenvwrapper
 
 We have to install virtualenv in the system's python and
 virtualenvwrapper in the new python.
 
-    $ sudo apt-get install python-virtualenv
+    sudo apt-get install python-virtualenv
     
-    $ pip install virtualenvwrapper
+    pip install virtualenvwrapper
 
 The first line only needs to be executed once. It works for the whole
 system. The second one needs to be done for each new python environment
 you create. Make a hidden directory to hold the virtual environments.
 
-    $ mkdir ~/.virtualenvs
+    mkdir ~/.virtualenvs
 
 Add the following three lines at the end of your .bashrc.
 
@@ -68,13 +67,13 @@ Add the following three lines at the end of your .bashrc.
 
 You will need to use an editor. Then you have to reload them:
 
-    $ source .bashrc
+    source .bashrc
 
 # Create the virtual environment
 
 To create a virtual environment called 'no-more-drug-war', type:
 
-    $ mkvirtualenv --no-site-packages no-more-drug-war
+    mkvirtualenv --no-site-packages no-more-drug-war
 
 # Important libraries
 
@@ -83,39 +82,39 @@ To create a virtual environment called 'no-more-drug-war', type:
 So, in order to know what packages we have installed at any time, we
 install yolk.
 
-    $ pip install yolk
+    pip install yolk
 
 Do not type sudo! To see what it installed at any time:
 
-    $ yolk -l
+    yolk -l
 
 A list of further packages for IPython are available [here](http://ipython.org/ipython-doc/stable/install/install.html).
 Type these individually and they each may take a few minutes to install.
 
-    $ pip install pyzmq
+    pip install pyzmq
     
-    $ pip install pygments
+    pip install pygments
     
-    $ pip install tornado
+    pip install tornado
     
-    $ pip install nose
+    pip install nose
     
-    $ pip install numpy
+    pip install numpy
     
-    $ pip install scipy
+    pip install scipy
     
-    $ pip install matplotlib
+    pip install matplotlib
     
-    $ pip install pandas
+    pip install pandas
 
 # Turning it on and off
 
 Now to get out of your virtual environment, just type
 
-    $ exit
+    exit
 
 To get back in, type:
 
-    $ workon no-more-drug-war
+    workon no-more-drug-war
 
 Good luck!

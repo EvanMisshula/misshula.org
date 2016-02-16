@@ -164,7 +164,7 @@ In the above code snippet, I follow the video but add the function being applied
 the map method.  The results are all printed in the mini-buffer. Now in demo3.js, skeeto shows 
 the invocation of the skewer-repl. A repl is *Read-Evaluation-Print-Loop* also called a shell or 
 console. In R, the repl is called the R console and it is an essential part of buiding programs and 
-performing analusis. In Python, the repl of choice is the extremely popular IPython.  Here is an 
+performing analysis. In Python, the repl of choice is the extremely popular IPython.  Here is an 
 example of a complicated graph drawn using the repl.
 
     # data 
@@ -286,7 +286,7 @@ restarting the server by pointing it at that directory.
 
 Now examine the head of `example.html`.
 
-    #+BEGIN_MARKDOWN 
+    #+BEGIN_SRC md :exports code 
         <!DOCTYPE html>
         <html>
           <head>
@@ -302,7 +302,7 @@ Now examine the head of `example.html`.
             </canvas>
           </body>
         </html>
-    #+END_MARKDOWN
+    #+END_SRC
 
 I have added a meta tag so that you won't get any inconsequential errors complaining that we have
 not specified the charset.  The first script tag calls `jquerey`, a very popular cross browser

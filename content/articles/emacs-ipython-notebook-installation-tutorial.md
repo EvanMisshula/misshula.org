@@ -59,7 +59,7 @@ with the Emacs-IPython-Notebook.
 So you may not have a .emacs file. This file loads all of your
 customization files into emacs. Create it if you don't.
 
-    $ touch .emacs
+    touch .emacs
 
 Now find it `C-x C-f ~/.emacs` (The capital 'C' means control.)
 
@@ -111,7 +111,7 @@ personal .emacs file) at my github repo which is linked here.
 Now to start the notebook. Go to the directory with a notebook or where
 you want to keep them and open a new shell. Type:
 
-    $ ipython notebook --pylab=inline
+    ipython notebook --pylab=inline
 
 Back in emacs type.
 

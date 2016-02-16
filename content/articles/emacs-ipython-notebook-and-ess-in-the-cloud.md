@@ -115,7 +115,7 @@ host and identity. Good directions are [here](http://blog.i-evaluation.com/2012/
 using. The result is that establishing an ssh connection should be as
 easy as:
 
-    $ ssh myServer
+    ssh myServer
 
 -   Here is a sample config file based on my own. This will not work
     on your machine.
@@ -131,13 +131,13 @@ easy as:
 -   Make a directory on the remote machine to put your notebook
     files. Start the server normally.
 
-    $ ipython notebook --pylab=inline --no-browser --port=6000
+    ipython notebook --pylab=inline --no-browser --port=6000
 
 <p><img src="../images/server-300x191.png" width="300px" alt="img" title="server"></p>
 
 -   From another terminal on your local machine:
 
-    $ ssh -N -f -L 7000:127.0.0.1:6000 myServer
+    ssh -N -f -L 7000:127.0.0.1:6000 myServer
 
 <p><img src="../images/bothTerminals-300x168.png" width="300px" alt="img" title="both-terminals"></p>
 

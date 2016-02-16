@@ -1,4 +1,4 @@
-title: Released...the film version of the Castle is out
+title: Released&#x2026;the film version of the Castle is out
 date: 2011-01-26 11:33
 author: emisshula
 category: Criminal Justice

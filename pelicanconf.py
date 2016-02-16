@@ -11,11 +11,13 @@ PATH = 'content'
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = [('Bio','/pages/bio.html'),
              ('Academic','/pages/academic.html'),
-             ('Contact','/pages/contact.html'),]
+             ('Contact','/pages/contact.html'),
+             ('FCM-742','/pages/FCM742-01.html'),
+]
 
 TIMEZONE = 'US/Eastern'
 
-PELICAN_THEMES = '/home/evan/pelican-themes/crowsfeat'
+#PELICAN_THEMES = '/home/evan/pelican-themes/bootstrap'
 DELETE_OUTPUT_DIRECTORY = False
 USE_FOLDER_AS_CATEGORY = True
 

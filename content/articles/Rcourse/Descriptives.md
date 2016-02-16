@@ -7,7 +7,7 @@ slug: r-descriptives-ess
 
 <p><img src="../../images/bragan.jpeg" width="300px" alt="box" title="box"></p>
 
-> Say you were standing with one foot in the oven and one foot in an ice bucket. According to the percentage people, you should be perfectly comfortable. ~Bobby Bragan, 1963
+> Say you were standing with one foot in the oven and one foot in an ice bucket. According to the percentage people, you should be perfectly comfortable. <sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup> ~Bobby Bragan, 1963
 
 # Encountering data
 
@@ -93,7 +93,7 @@ London. However, he was also the founding editor of the *Annals of
 Eugenics*.  Dr. Pearson advocated for the restriction of immigration
 by Jewish people to Britain on the basis that \`\`this alien Jewish
 population is somewhat inferior physically and mentally to the native
-population.'' He also thought that war between the races was
+population.'' <sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>  He also thought that war between the races was
 inevitable.
 
 A number of prominent founders of statistics and biostatistics shared
@@ -107,7 +107,7 @@ use our research to make rather than inhibit social progress.
 
 Another older technique for exploring data is to draw a stem and leaf
 plot.  These were popularized by John Tukey in his book *Exploratory Data
-Analysis* .  The leading digits of the data are the *stems* while
+Analysis* <sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>.  The leading digits of the data are the *stems* while
 the final digits are the *leaves*.  The graph is drawn left to right with 
 a vertical line separating the stem and leaves.
 
@@ -115,11 +115,11 @@ a vertical line separating the stem and leaves.
 <h2 class="footnotes">Footnotes: </h2>
 <div id="text-footnotes">
 
-<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> Robert Randall Bragan an American shortstop, catcher, manager, and coach in Major League Baseball.</div>
+<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> <div class="footpara">Robert Randall Bragan an American shortstop, catcher, manager, and coach in Major League Baseball.</div></div>
 
-<div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> Pearson, Karl, & Moul, Margaret (1925). "The Problem of Alien Immigration into Great Britain, Illustrated by an Examination of Russian and Polish Jewish Children", Part II, Annals of Eugenics, Vol. I, No. 2, pp. 125-126.</div>
+<div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> <div class="footpara">Pearson, Karl, & Moul, Margaret (1925). "The Problem of Alien Immigration into Great Britain, Illustrated by an Examination of Russian and Polish Jewish Children", Part II, Annals of Eugenics, Vol. I, No. 2, pp. 125-126.</div></div>
 
-<div class="footdef"><sup><a id="fn.3" class="footnum" href="#fnr.3">3</a></sup> ukey, John W. (1977). Exploratory Data Analysis (1 ed.). Pearson. ISBN 0-201-07616-0.</div>
+<div class="footdef"><sup><a id="fn.3" class="footnum" href="#fnr.3">3</a></sup> <div class="footpara">ukey, John W. (1977). Exploratory Data Analysis (1 ed.). Pearson. ISBN 0-201-07616-0.</div></div>
 
 
 </div>

@@ -10,11 +10,14 @@ summary: Intro to Evan
 
 # Academic
 
-I am a [GC Digital Fellow](https://digitalfellows.commons.gc.cuny.edu) and sixth year PhD student in [Criminal
-Justice](http://gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Criminal-Justice) at the [CUNY Graduate Center](http://gc.cuny.edu/Home).  I work part-time as a data
-scientist at the John Jay [Research and Evaluation Center](http://johnjayrec.nyc/2014/06/15/cv2014_maps/) where we
-evaluate anti-violence programs. I serve as a CUNY John Jay
-Presidential Fellow where I work on the [Misdemeanor Justice
+I am a substitute lecturer in the department of Math and Computer
+Science at CUNY John Jay. I serve as advisor to the Computer
+Science club and a coordinator for new undergraduate major,
+Computer Science and Information Security. I am a PhD student in
+[Criminal Justice](http://gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Criminal-Justice) at the [CUNY Graduate Center](http://gc.cuny.edu/Home).  I work part-time as
+a data scientist at the John Jay [Research and Evaluation Center](http://johnjayrec.nyc/2014/06/15/cv2014_maps/)
+where we evaluate anti-violence programs. I serve as a CUNY John
+Jay Presidential Fellow where I work on the [Misdemeanor Justice
 Project](http://www1.cuny.edu/mu/forum/2014/10/29/john-jay-college-presents-findings-on-misdemeanor-arrests-in-new-york/). At John Jay I am a member of the
 [Punishment-2-Public-Health-Academy](http://johnjay.jjay.cuny.edu/p2ph/x.asp) and the Social Network Research
 Group ([SNRG-NYC](http://snrg-nyc.org/)).  At the CUNY GC, I am a member of the Pattern

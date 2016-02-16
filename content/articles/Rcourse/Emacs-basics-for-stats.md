@@ -174,7 +174,6 @@ keybindings. This seems strange
 
 Here is the payoff:
 
-
 -   *point* is current location of cursor
 
 -   *mark* `C-SPC` to define another point

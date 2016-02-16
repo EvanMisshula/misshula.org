@@ -1,13 +1,4 @@
-title: csci373
-modified: 2015-08-27
-tags: teaching, cs
-slug: csci373
-label: csci373
-authors: Evan Misshula
-summary: Advanced Data Structures
-
-
-# Class info<a id="sec-1" name="sec-1"></a>
+# Class info
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -55,9 +46,9 @@ summary: Advanced Data Structures
 </tbody>
 </table>
 
-# Introduction<a id="sec-2" name="sec-2"></a>
+# Introduction
 
-Welcome to Advanced Data Structures, Fall 2011. From MIT Open
+Welcome to [Advanced Data Structures](../images/csci373.pdf), Fall 2011. From MIT Open
 Courseware:
 
 > Data structures play a central role in modern computer science. You
@@ -78,26 +69,26 @@ as the course progresses.  The schedule is not currently set and will
 be starting to be updated soon. You are welcome (and encouraged) to
 make your own recordings of the lectures.
 
-# Location and Time<a id="sec-3" name="sec-3"></a>
+# Location and Time
 
-## section 01<a id="sec-3-1" name="sec-3-1"></a>
+## section 01
 
 -   Where: Rm: 6.64.02, New Building, CUNY John Jay
 -   When: Tuesdays and Thursdays 11:50-12:05
 
-## section 02<a id="sec-3-2" name="sec-3-2"></a>
+## section 02
 
 -   Where: Rm: N1407, North Hall, CUNY John Jay
 -   When: Tuesdays and Thursdays 2:50-4:05
 
-# Computers in the classroom<a id="sec-4" name="sec-4"></a>
+# Computers in the classroom
 
 This is a hands on class.  You will be in front of a computer during
 class throughout the semester.  Please feel free to use the computer
 to take notes or use the class Etherpad to discuss the course
 material, but do **not** use the computers for non-class related topics.
 
-# What is the goal of the class?<a id="sec-5" name="sec-5"></a>
+# What is the goal of the class?
 
 -   The course goal is for students to learn how to design, write, and
     analyze C/C++ programs use structured data to perform complex
@@ -117,7 +108,7 @@ material, but do **not** use the computers for non-class related topics.
 -   If the class is successful students will be able to analyze
     algorithms using Big-0 notation.
 
-# What will be covered?<a id="sec-6" name="sec-6"></a>
+# What will be covered?
 
 All of the technologies have been chosen to be readily available and
 likely to be around for many years to come.  You will gain experience
@@ -145,7 +136,7 @@ might not get to all of these in class.
 14. Sorting
 15. Binary Search Trees and Graphs
 
-# Grades<a id="sec-7" name="sec-7"></a>
+# Grades
 
 There will be weekly homework. The problems will be difficult. Successful
 completion of all homework should guarantee a grade of 'A'.  In addition 
@@ -167,7 +158,7 @@ not to get an outstanding mark.  Do not try to game the system by not
 doing the homework and making it up on the exams.  That strategy has not 
 been successful yet.
 
-# ATTENDANCE POLICY<a id="sec-8" name="sec-8"></a>
+# ATTENDANCE POLICY
 
 Students enrolled in this course are required to attend all lecture,
 recitation and laboratory sessions of the section for which they
@@ -186,7 +177,7 @@ cancelled for extraordinary circumstances, the instructor will email
 an announcement to the preferred email of enrolled students as soon as
 practicable. This has not happened in recent memory.
 
-# ACTIVE COLLEGE E-MAIL<a id="sec-9" name="sec-9"></a>
+# ACTIVE COLLEGE E-MAIL
 
 Students are expected to maintain active and accessible college email
 and Blackboard accounts. Blackboard will be used to send emails and
@@ -205,7 +196,7 @@ email. Emails that do not contain these descriptive details may be
 considered spam, and remain unopened and unanswered. Students are
 expected to check email regularly.
 
-# TUTORING<a id="sec-10" name="sec-10"></a>
+# TUTORING
 
 Although a considerable amount of remediation is done during the
 course, when necessary students are encouraged to attend&#x2013; on a first
@@ -230,7 +221,7 @@ MSRC Website:
 TutorTrac (for scheduling appointments):
 <https://jjctutortrac.jjay.cuny.edu>
 
-# ADA STATEMENT: STUDENTS WITH DISABILITIES<a id="sec-11" name="sec-11"></a>
+# ADA STATEMENT: STUDENTS WITH DISABILITIES
 
 Qualified students with disabilities will be provided reasonable
 academic accommodations if determined appropriate by the Office of
@@ -243,7 +234,7 @@ to initiate contact with the OAS and to follow the established
 procedures for having the accommodation notice sent to both the course
 coordinator and the instructor.
 
-# ACADEMIC INTEGRITY:<a id="sec-12" name="sec-12"></a>
+# ACADEMIC INTEGRITY:
 
 Students who succeed in this course and graduate with a degree in
 Computer Science and Information Security may be hired by government

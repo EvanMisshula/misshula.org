@@ -14,6 +14,6 @@ slug: r-foundation-ess
 ## R console
 
 Start an ***R*** buffer through *ess* by typing `M-x R`.  See the earlier
-tutorial here or here if that is mystery. At the console type:
+tutorial [here](ess.md) or [here](Emacs-basics-for-stats.md) if that is mystery. At the console type:
 
     10+20

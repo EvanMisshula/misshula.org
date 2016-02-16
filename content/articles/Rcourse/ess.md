@@ -9,7 +9,7 @@ slug: r-tutorial-ess
 
 <p><img src="../../images/gbox.jpeg" width="300px" alt="box" title="box"></p>
 
-> All models are wrong, but some are useful.~George E. P. Box
+> All models are wrong, but some are useful.<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup> ~George E. P. Box
 
 ## Why is ESS useful?
 
@@ -125,7 +125,7 @@ underscore "\_" to the assignment arrow "<-" which saves a keystroke
 many times. If not you can use the underscore by typing `M-q _` or just
 "\_" twice.  You can tab complete objects (data) with `C-c TAB` in buffers
 that end with .R extension.  It is by the file extension that Emacs 
-knows what mode to use.
+knows what mode to use.<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
 
 Here are the key-bindings for moving around functions:
 
@@ -133,33 +133,33 @@ Here are the key-bindings for moving around functions:
 
 
 <colgroup>
-<col  class="left" />
+<col  class="org-left" />
 
-<col  class="left" />
+<col  class="org-left" />
 </colgroup>
 <thead>
 <tr>
-<th scope="col" class="left">Keybinding</th>
-<th scope="col" class="left">Function</th>
+<th scope="col" class="org-left">Keybinding</th>
+<th scope="col" class="org-left">Function</th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
-<td class="left">C-M-a</td>
-<td class="left">ess-beginning-of-function</td>
+<td class="org-left">C-M-a</td>
+<td class="org-left">ess-beginning-of-function</td>
 </tr>
 
 
 <tr>
-<td class="left">C-M-e</td>
-<td class="left">ess-end-of-function</td>
+<td class="org-left">C-M-e</td>
+<td class="org-left">ess-end-of-function</td>
 </tr>
 
 
 <tr>
-<td class="left">C-M-h</td>
-<td class="left">ess-mark-function</td>
+<td class="org-left">C-M-h</td>
+<td class="org-left">ess-mark-function</td>
 </tr>
 </tbody>
 </table>
@@ -183,33 +183,33 @@ the next tutorial.  You can recall your command history.
 
 
 <colgroup>
-<col  class="left" />
+<col  class="org-left" />
 
-<col  class="left" />
+<col  class="org-left" />
 </colgroup>
 <thead>
 <tr>
-<th scope="col" class="left">keybinding</th>
-<th scope="col" class="left">function</th>
+<th scope="col" class="org-left">keybinding</th>
+<th scope="col" class="org-left">function</th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
-<td class="left">M-p</td>
-<td class="left">comint-previous-input</td>
+<td class="org-left">M-p</td>
+<td class="org-left">comint-previous-input</td>
 </tr>
 
 
 <tr>
-<td class="left">M-n</td>
-<td class="left">comint-next-input</td>
+<td class="org-left">M-n</td>
+<td class="org-left">comint-next-input</td>
 </tr>
 
 
 <tr>
-<td class="left">M-r</td>
-<td class="left">comint-previous-matching-input</td>
+<td class="org-left">M-r</td>
+<td class="org-left">comint-previous-matching-input</td>
 </tr>
 </tbody>
 </table>
@@ -231,69 +231,69 @@ with `C-c C-s`.  Here are the bindings for sending code:
 
 
 <colgroup>
-<col  class="left" />
+<col  class="org-left" />
 
-<col  class="left" />
+<col  class="org-left" />
 </colgroup>
 <thead>
 <tr>
-<th scope="col" class="left">Keybinding</th>
-<th scope="col" class="left">Function</th>
+<th scope="col" class="org-left">Keybinding</th>
+<th scope="col" class="org-left">Function</th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
-<td class="left">`C-c C-j`</td>
-<td class="left">`ess-eval-line`</td>
+<td class="org-left">`C-c C-j`</td>
+<td class="org-left">`ess-eval-line`</td>
 </tr>
 
 
 <tr>
-<td class="left">`C-c M-j`</td>
-<td class="left">`ess-eval-line-and-go`</td>
+<td class="org-left">`C-c M-j`</td>
+<td class="org-left">`ess-eval-line-and-go`</td>
 </tr>
 
 
 <tr>
-<td class="left">`C-c C-f`</td>
-<td class="left">`ess-eval-function`</td>
+<td class="org-left">`C-c C-f`</td>
+<td class="org-left">`ess-eval-function`</td>
 </tr>
 
 
 <tr>
-<td class="left">`C-c M-f`</td>
-<td class="left">`ess-eval-function-and-go`</td>
+<td class="org-left">`C-c M-f`</td>
+<td class="org-left">`ess-eval-function-and-go`</td>
 </tr>
 
 
 <tr>
-<td class="left">`C-c C-r`</td>
-<td class="left">`ess-eval-region`</td>
+<td class="org-left">`C-c C-r`</td>
+<td class="org-left">`ess-eval-region`</td>
 </tr>
 
 
 <tr>
-<td class="left">`C-c M-r`</td>
-<td class="left">`ess-eval-region-and-go`</td>
+<td class="org-left">`C-c M-r`</td>
+<td class="org-left">`ess-eval-region-and-go`</td>
 </tr>
 
 
 <tr>
-<td class="left">`C-c C-b`</td>
-<td class="left">`ess-eval-buffer`</td>
+<td class="org-left">`C-c C-b`</td>
+<td class="org-left">`ess-eval-buffer`</td>
 </tr>
 
 
 <tr>
-<td class="left">`C-c M-b`</td>
-<td class="left">`ess-eval-buffer-and-go`</td>
+<td class="org-left">`C-c M-b`</td>
+<td class="org-left">`ess-eval-buffer-and-go`</td>
 </tr>
 
 
 <tr>
-<td class="left">`C-c C-n`</td>
-<td class="left">`ess-eval-line-and-step`</td>
+<td class="org-left">`C-c C-n`</td>
+<td class="org-left">`ess-eval-line-and-step`</td>
 </tr>
 </tbody>
 </table>
@@ -304,21 +304,21 @@ About 90% of the time I only use:
 
 
 <colgroup>
-<col  class="left" />
+<col  class="org-left" />
 
-<col  class="left" />
+<col  class="org-left" />
 </colgroup>
 <thead>
 <tr>
-<th scope="col" class="left">Keybinding</th>
-<th scope="col" class="left">Function</th>
+<th scope="col" class="org-left">Keybinding</th>
+<th scope="col" class="org-left">Function</th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
-<td class="left">`C-c C-r`</td>
-<td class="left">`ess-eval-region`</td>
+<td class="org-left">`C-c C-r`</td>
+<td class="org-left">`ess-eval-region`</td>
 </tr>
 </tbody>
 </table>
@@ -329,10 +329,10 @@ About 90% of the time I only use:
 <h2 class="footnotes">Footnotes: </h2>
 <div id="text-footnotes">
 
-<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> Box & Draper (1987), Empirical model-building and response surfaces, Wiley, p. 424.</div>
+<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> <div class="footpara">Box & Draper (1987), Empirical model-building and response surfaces, Wiley, p. 424.</div></div>
 
-<div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> Windows 8 hides the file extension by default. You can change
-this evil behavior by seting the environment variable.</div>
+<div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> <div class="footpara">Windows 8 hides the file extension by default. You can change
+this evil behavior by seting the environment variable.</div></div>
 
 
 </div>

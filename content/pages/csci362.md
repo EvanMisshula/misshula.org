@@ -1,11 +1,3 @@
-title: csci362
-modified: 2015-08-27
-tags: teaching, cs
-slug: csci362
-label: csci362
-authors: Evan Misshula
-summary: Databases and data mining
-
 # Syllabus Content
 
 -   John Jay College of Criminal Justice, 524 West 59th Street, New York, NY 10019
@@ -20,50 +12,50 @@ summary: Databases and data mining
 
 
 <colgroup>
-<col  class="org-left" />
+<col  class="left" />
 
-<col  class="org-left" />
+<col  class="left" />
 </colgroup>
 <tbody>
 <tr>
-<td class="org-left">name</td>
-<td class="org-left">Evan Misshula</td>
+<td class="left">name</td>
+<td class="left">Evan Misshula</td>
 </tr>
 
 
 <tr>
-<td class="org-left">office</td>
-<td class="org-left">6.63.30</td>
+<td class="left">office</td>
+<td class="left">6.63.30</td>
 </tr>
 
 
 <tr>
-<td class="org-left">email</td>
-<td class="org-left">EMisshula@jjay.cuny.edu</td>
+<td class="left">email</td>
+<td class="left">EMisshula@jjay.cuny.edu</td>
 </tr>
 
 
 <tr>
-<td class="org-left">chat</td>
-<td class="org-left">EvanMisshula@gmail.com</td>
+<td class="left">chat</td>
+<td class="left">EvanMisshula@gmail.com</td>
 </tr>
 
 
 <tr>
-<td class="org-left">cell</td>
-<td class="org-left">917.975.7039</td>
+<td class="left">cell</td>
+<td class="left">917.975.7039</td>
 </tr>
 
 
 <tr>
-<td class="org-left">direction</td>
-<td class="org-left">Email or chat please, no voice calls please</td>
+<td class="left">direction</td>
+<td class="left">Email or chat please, no voice calls please</td>
 </tr>
 
 
 <tr>
-<td class="org-left">office hour</td>
-<td class="org-left">W 10:45 - 12:45 at Math Resource Center</td>
+<td class="left">office hour</td>
+<td class="left">W 10:45 - 12:45 at Math Resource Center</td>
 </tr>
 </tbody>
 </table>
@@ -244,212 +236,212 @@ All of the texts for the class are free and licensed under creative commons.
 
 
 <colgroup>
-<col  class="org-left" />
+<col  class="left" />
 
-<col  class="org-left" />
+<col  class="left" />
 </colgroup>
 <thead>
 <tr>
-<th scope="col" class="org-left">Week 1</th>
-<th scope="col" class="org-left">Introduction</th>
+<th scope="col" class="left">Week 1</th>
+<th scope="col" class="left">Introduction</th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Purpose of database systems</td>
+<td class="left">&#xa0;</td>
+<td class="left">Purpose of database systems</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Relational databases</td>
+<td class="left">&#xa0;</td>
+<td class="left">Relational databases</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Database design</td>
+<td class="left">&#xa0;</td>
+<td class="left">Database design</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Database architecture</td>
+<td class="left">&#xa0;</td>
+<td class="left">Database architecture</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Database users and administrators</td>
+<td class="left">&#xa0;</td>
+<td class="left">Database users and administrators</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Legal and ethical obligations of database administrators</td>
+<td class="left">&#xa0;</td>
+<td class="left">Legal and ethical obligations of database administrators</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Discrepancies in data</td>
+<td class="left">&#xa0;</td>
+<td class="left">Discrepancies in data</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Database administrator password use and misuse</td>
+<td class="left">&#xa0;</td>
+<td class="left">Database administrator password use and misuse</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Selling old backup drives</td>
+<td class="left">&#xa0;</td>
+<td class="left">Selling old backup drives</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Re-using data models from previous jobs</td>
+<td class="left">&#xa0;</td>
+<td class="left">Re-using data models from previous jobs</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Knowledge regarding coworkers pay from the data</td>
+<td class="left">&#xa0;</td>
+<td class="left">Knowledge regarding coworkers pay from the data</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Knowledge regarding private company information</td>
+<td class="left">&#xa0;</td>
+<td class="left">Knowledge regarding private company information</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Knowledge of private personal information</td>
+<td class="left">&#xa0;</td>
+<td class="left">Knowledge of private personal information</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Handling unusual requests for data</td>
+<td class="left">&#xa0;</td>
+<td class="left">Handling unusual requests for data</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Providing sensitive data via email</td>
+<td class="left">&#xa0;</td>
+<td class="left">Providing sensitive data via email</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Exaggerating sales data for your boss</td>
-</tr>
-</tbody>
-
-<tbody>
-<tr>
-<td class="org-left">Week 2</td>
-<td class="org-left">Relationship model and conceptual design</td>
+<td class="left">&#xa0;</td>
+<td class="left">Exaggerating sales data for your boss</td>
 </tr>
 </tbody>
 
 <tbody>
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Entity Relationship (E-R) model</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Constraints</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Removing redundant attributes in entity sets</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">E-R diagrams</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">E-R design issues</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Extended E-R features</td>
+<td class="left">Week 2</td>
+<td class="left">Relationship model and conceptual design</td>
 </tr>
 </tbody>
 
 <tbody>
 <tr>
-<td class="org-left">Week 3</td>
-<td class="org-left">Relational model</td>
+<td class="left">&#xa0;</td>
+<td class="left">Entity Relationship (E-R) model</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Constraints</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Removing redundant attributes in entity sets</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">E-R diagrams</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">E-R design issues</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Extended E-R features</td>
 </tr>
 </tbody>
 
 <tbody>
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Structure of relational databases</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Database schema</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Keys</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Schema diagrams</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Introduction to relational algebra</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Fundamental relational algebra operations</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">selection, join, union, set difference, set intersection</td>
+<td class="left">Week 3</td>
+<td class="left">Relational model</td>
 </tr>
 </tbody>
 
 <tbody>
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="left">&#xa0;</td>
+<td class="left">Structure of relational databases</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Database schema</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Keys</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Schema diagrams</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Introduction to relational algebra</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Fundamental relational algebra operations</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">selection, join, union, set difference, set intersection</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">&#xa0;</td>
 </tr>
 </tbody>
 </table>
@@ -458,206 +450,206 @@ All of the texts for the class are free and licensed under creative commons.
 
 
 <colgroup>
-<col  class="org-left" />
+<col  class="left" />
 
-<col  class="org-left" />
+<col  class="left" />
 </colgroup>
 <thead>
 <tr>
-<th scope="col" class="org-left">Week 4</th>
-<th scope="col" class="org-left">Relational algebra</th>
+<th scope="col" class="left">Week 4</th>
+<th scope="col" class="left">Relational algebra</th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Basic operators:</td>
+<td class="left">&#xa0;</td>
+<td class="left">Basic operators:</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">select</td>
+<td class="left">&#xa0;</td>
+<td class="left">select</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">project</td>
+<td class="left">&#xa0;</td>
+<td class="left">project</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">union</td>
+<td class="left">&#xa0;</td>
+<td class="left">union</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">set difference</td>
+<td class="left">&#xa0;</td>
+<td class="left">set difference</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Cartesian product</td>
+<td class="left">&#xa0;</td>
+<td class="left">Cartesian product</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">rename</td>
+<td class="left">&#xa0;</td>
+<td class="left">rename</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Additional operations:</td>
+<td class="left">&#xa0;</td>
+<td class="left">Additional operations:</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">set intersection</td>
+<td class="left">&#xa0;</td>
+<td class="left">set intersection</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">natural join</td>
+<td class="left">&#xa0;</td>
+<td class="left">natural join</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">assignment</td>
+<td class="left">&#xa0;</td>
+<td class="left">assignment</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">outer join</td>
+<td class="left">&#xa0;</td>
+<td class="left">outer join</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">division</td>
+<td class="left">&#xa0;</td>
+<td class="left">division</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Null values</td>
+<td class="left">&#xa0;</td>
+<td class="left">Null values</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Extended relational algebra operations:</td>
+<td class="left">&#xa0;</td>
+<td class="left">Extended relational algebra operations:</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">generalized projection</td>
+<td class="left">&#xa0;</td>
+<td class="left">generalized projection</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">aggregate functions</td>
-</tr>
-</tbody>
-
-<tbody>
-<tr>
-<td class="org-left">Week 5</td>
-<td class="org-left">SQL</td>
+<td class="left">&#xa0;</td>
+<td class="left">aggregate functions</td>
 </tr>
 </tbody>
 
 <tbody>
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Data definitions</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Basic structure of SQL queries:</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">select</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">where</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">from</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Handling duplicates   Set operations (union, intersect, except)</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Null values</td>
+<td class="left">Week 5</td>
+<td class="left">SQL</td>
 </tr>
 </tbody>
 
 <tbody>
 <tr>
-<td class="org-left">Week 6</td>
-<td class="org-left">SQL (contd.)</td>
+<td class="left">&#xa0;</td>
+<td class="left">Data definitions</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Basic structure of SQL queries:</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">select</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">where</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">from</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Handling duplicates   Set operations (union, intersect, except)</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Null values</td>
 </tr>
 </tbody>
 
 <tbody>
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Aggregate functions (avg, min, max, sum, count, group by)</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Nested subqueries (set membership, set comparisons, set cardinality)</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Complex queries (the with clause)</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Database modification (delete, insert, update)</td>
+<td class="left">Week 6</td>
+<td class="left">SQL (contd.)</td>
 </tr>
 </tbody>
 
 <tbody>
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="left">&#xa0;</td>
+<td class="left">Aggregate functions (avg, min, max, sum, count, group by)</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Nested subqueries (set membership, set comparisons, set cardinality)</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Complex queries (the with clause)</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Database modification (delete, insert, update)</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">&#xa0;</td>
 </tr>
 </tbody>
 </table>
@@ -666,177 +658,177 @@ All of the texts for the class are free and licensed under creative commons.
 
 
 <colgroup>
-<col  class="org-left" />
+<col  class="left" />
 
-<col  class="org-left" />
+<col  class="left" />
 </colgroup>
 <thead>
 <tr>
-<th scope="col" class="org-left">Week 7</th>
-<th scope="col" class="org-left">IN-CLASS EXAM</th>
+<th scope="col" class="left">Week 7</th>
+<th scope="col" class="left">IN-CLASS EXAM</th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Relational database design</td>
+<td class="left">&#xa0;</td>
+<td class="left">Relational database design</td>
 </tr>
 </tbody>
 
 <tbody>
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Features of good relational design</td>
+<td class="left">&#xa0;</td>
+<td class="left">Features of good relational design</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Atomic domains and first normal form</td>
+<td class="left">&#xa0;</td>
+<td class="left">Atomic domains and first normal form</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Functional dependencies</td>
+<td class="left">&#xa0;</td>
+<td class="left">Functional dependencies</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Boyce-Codd normal form (BCNF)</td>
+<td class="left">&#xa0;</td>
+<td class="left">Boyce-Codd normal form (BCNF)</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Third normal form (3NF)</td>
+<td class="left">&#xa0;</td>
+<td class="left">Third normal form (3NF)</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Decomposition using functional dependencies</td>
-</tr>
-</tbody>
-
-<tbody>
-<tr>
-<td class="org-left">Week 8</td>
-<td class="org-left">Relational database design</td>
+<td class="left">&#xa0;</td>
+<td class="left">Decomposition using functional dependencies</td>
 </tr>
 </tbody>
 
 <tbody>
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Functional dependency theory:</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">closure of a set of functional dependencies</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Armstrongs’s axioms</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">closure of attribute sets</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">canonical cover</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">extraneous attributes</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Testing for BCNF</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">BCNF decomposition</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Testing for 3NF</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">3NF decomposition</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Database design process</td>
+<td class="left">Week 8</td>
+<td class="left">Relational database design</td>
 </tr>
 </tbody>
 
 <tbody>
 <tr>
-<td class="org-left">Week 9</td>
-<td class="org-left">Database security</td>
+<td class="left">&#xa0;</td>
+<td class="left">Functional dependency theory:</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">closure of a set of functional dependencies</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Armstrongs’s axioms</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">closure of attribute sets</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">canonical cover</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">extraneous attributes</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Testing for BCNF</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">BCNF decomposition</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Testing for 3NF</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">3NF decomposition</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Database design process</td>
 </tr>
 </tbody>
 
 <tbody>
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Authorization:</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">(read, insert, update, delete, index, resources, alteration, drop)</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Privileges (grant, revoke)</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Roles</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Authentication</td>
+<td class="left">Week 9</td>
+<td class="left">Database security</td>
 </tr>
 </tbody>
 
 <tbody>
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="left">&#xa0;</td>
+<td class="left">Authorization:</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">(read, insert, update, delete, index, resources, alteration, drop)</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Privileges (grant, revoke)</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Roles</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Authentication</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">&#xa0;</td>
 </tr>
 </tbody>
 </table>
@@ -845,163 +837,163 @@ All of the texts for the class are free and licensed under creative commons.
 
 
 <colgroup>
-<col  class="org-left" />
+<col  class="left" />
 
-<col  class="org-left" />
+<col  class="left" />
 </colgroup>
 <thead>
 <tr>
-<th scope="col" class="org-left">Week 10</th>
-<th scope="col" class="org-left">Storage and file structure</th>
+<th scope="col" class="left">Week 10</th>
+<th scope="col" class="left">Storage and file structure</th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Physical storage media</td>
+<td class="left">&#xa0;</td>
+<td class="left">Physical storage media</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Magnetic disk and flash storage</td>
+<td class="left">&#xa0;</td>
+<td class="left">Magnetic disk and flash storage</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">RAID (reliability, performance)</td>
+<td class="left">&#xa0;</td>
+<td class="left">RAID (reliability, performance)</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Tertiary storage</td>
+<td class="left">&#xa0;</td>
+<td class="left">Tertiary storage</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">File organization (records, free lists, slotted page)</td>
+<td class="left">&#xa0;</td>
+<td class="left">File organization (records, free lists, slotted page)</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Organization of records in files (heap, sequential, hashing, clustering)</td>
-</tr>
-</tbody>
-
-<tbody>
-<tr>
-<td class="org-left">Week 11</td>
-<td class="org-left">Indexing and hashing</td>
+<td class="left">&#xa0;</td>
+<td class="left">Organization of records in files (heap, sequential, hashing, clustering)</td>
 </tr>
 </tbody>
 
 <tbody>
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Ordered indices</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Dense and sparse index files</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Primary and secondary indices</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">B+-trees</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Hashing (static vs. dynamic)</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Bitmap indices</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Index definition in SQL</td>
+<td class="left">Week 11</td>
+<td class="left">Indexing and hashing</td>
 </tr>
 </tbody>
 
 <tbody>
 <tr>
-<td class="org-left">Week 12</td>
-<td class="org-left">Data mining</td>
+<td class="left">&#xa0;</td>
+<td class="left">Ordered indices</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Dense and sparse index files</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Primary and secondary indices</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">B+-trees</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Hashing (static vs. dynamic)</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Bitmap indices</td>
+</tr>
+
+
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Index definition in SQL</td>
 </tr>
 </tbody>
 
 <tbody>
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Decision support systems</td>
+<td class="left">Week 12</td>
+<td class="left">Data mining</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td class="left">&#xa0;</td>
+<td class="left">Decision support systems</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Data warehousing</td>
+<td class="left">&#xa0;</td>
+<td class="left">Data warehousing</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Classification:</td>
+<td class="left">&#xa0;</td>
+<td class="left">Classification:</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">classification rules</td>
+<td class="left">&#xa0;</td>
+<td class="left">classification rules</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">decision trees</td>
+<td class="left">&#xa0;</td>
+<td class="left">decision trees</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Bayesian classifiers</td>
+<td class="left">&#xa0;</td>
+<td class="left">Bayesian classifiers</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">regression</td>
+<td class="left">&#xa0;</td>
+<td class="left">regression</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Association rules (support, confidence)</td>
+<td class="left">&#xa0;</td>
+<td class="left">Association rules (support, confidence)</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Finding association rules</td>
+<td class="left">&#xa0;</td>
+<td class="left">Finding association rules</td>
 </tr>
 </tbody>
 </table>
@@ -1010,63 +1002,63 @@ All of the texts for the class are free and licensed under creative commons.
 
 
 <colgroup>
-<col  class="org-left" />
+<col  class="left" />
 
-<col  class="org-left" />
+<col  class="left" />
 </colgroup>
 <thead>
 <tr>
-<th scope="col" class="org-left">Week 13</th>
-<th scope="col" class="org-left">Data mining</th>
+<th scope="col" class="left">Week 13</th>
+<th scope="col" class="left">Data mining</th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Other types of associations:</td>
+<td class="left">&#xa0;</td>
+<td class="left">Other types of associations:</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">positive and negative correlations</td>
+<td class="left">&#xa0;</td>
+<td class="left">positive and negative correlations</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">sequence associations,</td>
+<td class="left">&#xa0;</td>
+<td class="left">sequence associations,</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">deviations from temporal patterns</td>
+<td class="left">&#xa0;</td>
+<td class="left">deviations from temporal patterns</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">clustering (k-means, agglomerative, divisive)</td>
+<td class="left">&#xa0;</td>
+<td class="left">clustering (k-means, agglomerative, divisive)</td>
 </tr>
 
 
 <tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">standard clustering algorithms</td>
+<td class="left">&#xa0;</td>
+<td class="left">standard clustering algorithms</td>
 </tr>
 </tbody>
 
 <tbody>
 <tr>
-<td class="org-left">Weeks 14-15</td>
-<td class="org-left">Term project presentations</td>
+<td class="left">Weeks 14-15</td>
+<td class="left">Term project presentations</td>
 </tr>
 </tbody>
 </table>
 
-# College wide policies for undergraduate courses<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>
+# College wide policies for undergraduate courses
 
 A. Incomplete Grade Policy 
 
@@ -1099,7 +1091,7 @@ verification of a student’s eligibility from the OAS which is located
 at L66 in the new building (212-237-8031).  It is the student’s
 responsibility to initiate contact with the office and to follow the
 established procedures for having the accommodation notice sent to
-the instructor.” <sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
+the instructor.” 
 
 # Statement of the College Policy on Plagiarism
 
@@ -1125,9 +1117,9 @@ Academic Standards)
 <h2 class="footnotes">Footnotes: </h2>
 <div id="text-footnotes">
 
-<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> <div class="footpara">See the Undergraduate Bulletin, Chapter IV Academic Standards</div></div>
+<div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum" href="#fnr.1">1</a></sup> See the Undergraduate Bulletin, Chapter IV Academic Standards</div>
 
-<div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> <div class="footpara">Reasonable Accommodations: A Faculty Guide to Teaching College Students with Disabilities, 4th ed., City University of New York, p.3. <http://www.jjay.cuny.edu/studentlife/Reasonable_Accommodations.pdf></div></div>
+<div class="footdef"><sup><a id="fn.2" name="fn.2" class="footnum" href="#fnr.2">2</a></sup> Reasonable Accommodations: A Faculty Guide to Teaching College Students with Disabilities, 4th ed., City University of New York, p.3. <http://www.jjay.cuny.edu/studentlife/Reasonable_Accommodations.pdf></div>
 
 
 </div>

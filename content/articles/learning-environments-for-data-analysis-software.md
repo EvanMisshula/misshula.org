@@ -67,8 +67,8 @@ commands.
 
     ls
 
-    120907-Blogging with the IPython Notebook.ipynb EvanNB1.html old/
-    121120-Back from PyCon Canada 2012.ipynb EvanNB1.ipynb EvanNB1_header.html fig/
+    cp 120907-Blogging with the IPython Notebook.ipynb EvanNB1.html old/
+    cp 121120-Back from PyCon Canada 2012.ipynb EvanNB1.ipynb EvanNB1_header.html fig/
 
 # This is a markdown cell
 
@@ -87,11 +87,6 @@ favorite tools. Here are mine.
 
 What is most important is to LaTeX support. My favorite math equation
 is \[ e^{i\\pi}+1=0 \]. It can also render math numbered equations:
-
-<div class="latex">
-e<sup>x</sup>=\\&sum;\\<sub>j=0</sub><sup>\\&infin;</sup>\\\frac{x^j}{j!}
-
-</div>
 
 # The browser displays
 
@@ -114,8 +109,6 @@ It can also display graphs:
     Welcome to pylab, a matplotlib-based Python environment [backend: module://IPython.zmq.pylab.backend_inline].
     For more information, type 'help(pylab)'.
 
-    [Line2D(_line0)]
-
     x = linspace(0, 3*pi)
     plot(x, 0.5*sin(x), label=r'$\sin(x)$') plot(x, cos(x), 'ro', label=r'$\cos(x)$') title(r'Two familiar functions')
     legend()
@@ -132,33 +125,15 @@ complex algebraic equations:
     The sympyprinting extension is already loaded. To reload it, use:
     %reload_ext sympyprinting
 
-    Rational(3,2)*pi + exp(I*x) / (x**2 + y**2)
-
-<div class="latex">
-\\\frac{3}{2} \\&pi; + \\\frac{e<sup>\\\mathbf{\\imath} x</sup>}{x<sup>2</sup> + y<sup>2</sup>}
-
-</div>
-
     eq = ((x+y)**3 * (x+3)) eq
 
     \\left(x + 3\\right) \\left(x + y\\right)^{3}
 
     expand(eq)
 
-<div class="latex">
-x<sup>4</sup> + 3 x<sup>3</sup> y + 3 x<sup>3</sup> + 3 x<sup>2</sup> y<sup>2</sup> + 9 x<sup>2</sup> y + x y<sup>3</sup> + 9
-x y<sup>2</sup> + 3 y<sup>3</sup>
-
-</div>
-
 Ipython can even calculate the derivative!!
 
     diff(cos(x**2)**2 / (1+x)**2, x)
-
-<div class="latex">
--   4 \\\frac{x \\\operatorname{sin}\\\left(x<sup>2</sup>\\\right)\\\operatorname{cos}\\\left(x<sup>2</sup>\\\right)}{\\\left(x + 1\\\right)<sup>2</sup>} - 2 \\\frac{\\\operatorname{cos}<sup>2</sup>\\\left(x<sup>2</sup>\\\right)}{\\\left(x + 1\\\right)<sup>3</sup>}
-
-</div>
 
 It can also display pictures and videos&#x2026;
 
