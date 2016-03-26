@@ -1,0 +1,199 @@
+#+Title: Session Data
+#+Author: Evan Misshula
+#+Email: emisshula@qc.cuny.edu
+
+#+TAGS:       Write(w) Update(u) Fix(f) Check(c) noexport(n) export(e)
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+OPTIONS: toc:nil
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: cube
+#+REVEAL_THEME: simple
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal Introduction.">
+#+REVEAL_POSTAMBLE: <p> Created by Evan Misshula. </p>
+#+REVEAL_PLUGINS: (highlight markdown)
+#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
+
+
+
+* What is session data? 					     :export:
+- Session data is the summary of the communications between two
+  devices
+- log is like the bill of a mobile phone
+- Who? What? Where?
+* Typical report 						     :export:
+- source ip
+- destination ip
+- amount of data transfered
+- timestamps 
+* Sample session data						     :export:
+#+ATTR_HTML: :width 1550px :alt processed-latex1
+[[./images/silk.png]]
+* Why not full packets?
+- storage
+- less is more
+- less information over a longer time horizon
+* What is industry practice?					     :export:
+- FPC minutes or hours
+- Session months or years
+* Analysis Benefit 						     :export:
+- Less cruft faster analysis
+- abiltiy to zero in on what is important
+* Do records have a standard format? 				     :export:
+- standard 5-tuple
+  - source ip
+  - destination ip
+  - source port
+  - destination ip
+  - transport protocol
+* Other formats							     :export:
+- NetFlow v5
+- NetFlow v9
+- IPFIX
+* Termination 							     :export:
+- Natural Timeout
+- Idle Timeout
+- Active Timeout
+* Creation 							     :export:
+- When packet with new five tuple
+  - create new record
+* A good exercise						     :export:
+- capture packet and flow
+- map the packets to the flow
+- flow data is a projection of packet data
+* Netflow 							     :export:
+- originally a cisco spec in 1990
+- provided comparison from router to other net services
+- identify and summarize large amounts of traffic to simplify
+  processes (ie ACL comparisons)
+* Netflow							     :export:
+- v5 20 fields
+- v9 104 fields (supports ipV6)
+- IPFIX (binary) variable length fields (supports ipV6)
+* Other Flow Types						     :export:
+- Juniper JFlow
+- Citrix ApFlow
+- sFlow (a sample)
+* Collecting Session Data					     :export:
+- generator
+- collector
+Collection can be derivative or "off the wire"
+Also called
+- hardware
+- software
+* Hardware							     :export:
+- can be done off an existing router
+- can be computationally expensive
+- NetFlow can be generated from any cisco router
+* Software							     :export:
+- create a daemon on the sensor to collect and forward data
+* Common solutions						     :export:
+- Fprobe (can be installed via apt-get)
+- generate the flow on:
+  - eth1
+  - send it to 192.168.15 port 2888
+
+#+BEGIN_SRC sh :results output :exports code
+fprobe -i eth1 192.168.1.15:2888
+#+END_SRC
+* YAF (Yet another flowmeter)					     :export:
+- IPFIX data format
+- integrates with SiLK
+- IPFIX template architecture and SiLK apllication labels
+- NetSA https://tools.netsa.cert.org/yaf/libyaf/yaf_silk.html
+
+* SiLK (System for Internet-Level Knowledge)			     :export:
+- manageable security analysis across networks
+- combination of python, c and perl
+- known for a good community
+- packing and analysis
+* Packing							     :export:
+- ability to compress flow data into binary format 
+* Analysis							     :export:
+- complex calculations and formating
+  - chaining through pipes (a la regex)
+* Obtaining data						     :export:
+- generator and collector pair
+- records separated by flow type
+- flow types are further separated by class
+  - external -> internal
+  - internal -> external
+  - internal -> internal
+  - network architecture
+Based on a configuration file
+* Collection process						     :export:
+- rwflowpack
+  - parses
+  - determines origin
+  - stores data
+rflowpack.conf
+
+#+BEGIN_SRC sh :exports code
+service rwflowpack start
+#+END_SRC
+
+* Startup							     :export:
+- The startup may throw an error.
+- rwflowpack checks the configuration of silk.conf and sensor.conf
+  - it also won't start if not all sensors are available
+- flowcap can be used if data needs to be stored and fowarded
+  - preprocessor
+    - other tools include
+      1. rwflowappend
+      2. rwpackchecker
+      3. rwpollexec
+* SiLK flow types 						     :export:
+- SiLK data can be organized
+  - In: inbound
+  - Out: outbound
+  - Int2int: internal
+  - Ext2ext: external
+  - Inweb: inbound on port 80, 443, 8080
+  - OutWeb: outbound on port 80, 443, 8080
+  - Inicmp: inbound icmp
+  - Outicmp: outbound icmp
+  - Other:
+
+* SiLK Analysis Toolset 					     :export:
+- 55 seperate tools
+- rwfilter most common
+  - select statement
+  - compound statements applied through pipes
+
+* Filtering flow data with rwfilter 				     :export:
+- selecting session data
+- important for narrowing network forensics
+  - find the offending source ip
+    - rwfilter --anyaddress --start-date --end-date --type --pass=stdout
+    - pass this to rwcut
+    - a sample statement follows
+
+#+BEGIN_SRC sh :exports code
+rwfilter --anyaddress=1.2.3.4 --start-date=2013/06/22:11 --end-date=2013/06/22:11 --type=all --pass=stdout | rwcut
+#+END_SRC
+
+This captures from 11am to 1pm
+
+* Another scenario 						     :export:
+
+- Suspicious ip 6.6.6.6 is receiving data after midnight
+- Get the size of the data
+#+BEGIN_SRC sh :exports code
+rwfilter --anyaddress=6.6.6.6 --start-date=2013/06/22:00  --type=all --pass=stdout | rwcut
+#+END_SRC
+* Restricted to a port						     :export:
+or we can restrict it to the https port:
+#+BEGIN_SRC sh :exports code
+rwfilter --anyaddress=6.6.6.6 --start-date=2013/06/22:00  --aport=443 --type=all --pass=stdout | rwcut
+#+END_SRC
+
+* Restricted to a single conversation				     :export:
+or to restrict it to one conversation
+#+BEGIN_SRC sh :exports code
+rwfilter --anyaddress=6.6.6.6 --start-date=2013/06/22:00  --saddress=192.168.1.100 --daddress=6.6.6.6 --aport=443 --type=all --pass=stdout | rwcut
+#+END_SRC
+
