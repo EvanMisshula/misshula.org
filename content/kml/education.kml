@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OGRGeoJSON</name>
+  <Placemark>
+	<name>The Doe Fund (Ready, Willing, &amp; Able Program)</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">http://www.doe.org/</SimpleData>
+		<SimpleData name="service">GED, pre-GED, adult literacy, and computer skills;</SimpleData>
+		<SimpleData name="lon">-73.9358804</SimpleData>
+		<SimpleData name="contact">Program Director: Nazerine Griffin: (212) 690-6480</SimpleData>
+		<SimpleData name="address">Harlem Center for Opportunity
+2960 Frederick Douglass Boulevard
+New York, NY 10039</SimpleData>
+		<SimpleData name="lat">40.8298098</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9358804,40.8298098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Getting Out and Staying Out</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">http://www.gosonyc.org</SimpleData>
+		<SimpleData name="service">GED assistance; GED Plus School</SimpleData>
+		<SimpleData name="lon">-73.943647</SimpleData>
+		<SimpleData name="contact">Main Office: 212-831-502</SimpleData>
+		<SimpleData name="address">91 East 116th St, New York, NY 10029</SimpleData>
+		<SimpleData name="lat">40.799791</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.943647,40.799791</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Abyssinian Development Corporation</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">http://www.adcorp.org/</SimpleData>
+		<SimpleData name="service">ADC Literacy Build Program- GED preparation classes</SimpleData>
+		<SimpleData name="lon">-73.9496056</SimpleData>
+		<SimpleData name="contact">Main Office: 212-368-4471; 646-442-6599</SimpleData>
+		<SimpleData name="address">2070 Adam Clayton Powell, Jr. Blvd
+New York, NY 10027</SimpleData>
+		<SimpleData name="lat">40.8082809</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9496056,40.8082809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Union Settlement</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">http://unionsettlement.org/</SimpleData>
+		<SimpleData name="service">Adult Education Program: GED prep classes.</SimpleData>
+		<SimpleData name="lon">-73.9443267</SimpleData>
+		<SimpleData name="contact">Main Office: (212) 828-6016</SimpleData>
+		<SimpleData name="address">237 East 104th Street, 2nd floor New York, NY 10029</SimpleData>
+		<SimpleData name="lat">40.7899546</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9443267,40.7899546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harlem YMCA</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">http://www.ymcanyc.org/harlem/pages/harlem-ymca-literacy-zone</SimpleData>
+		<SimpleData name="service">Free GED classes</SimpleData>
+		<SimpleData name="lon">31.2646229</SimpleData>
+		<SimpleData name="contact">(212)912-2163</SimpleData>
+		<SimpleData name="address">180 W 135th St (Betw 6th &amp; 7th Ave)
+New York, NY 10030</SimpleData>
+		<SimpleData name="lat">30.1292892</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.2646229,30.1292892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Children's Aid Society East Harlem Center</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">http://www.childrensaidsociety.org</SimpleData>
+		<SimpleData name="service">Adolescent/Teen Services: Academic Tutoring; Leadership Development</SimpleData>
+		<SimpleData name="lon">-73.9492995</SimpleData>
+		<SimpleData name="contact">(212) 348-2343</SimpleData>
+		<SimpleData name="address">130 East 101st St.
+New York, NY 10029</SimpleData>
+		<SimpleData name="lat">40.7891824</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9492995,40.7891824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Exodus Transitional Community, Inc.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">http://www.etcny.org/tasc-preparation/</SimpleData>
+		<SimpleData name="service">TASC preparation</SimpleData>
+		<SimpleData name="lon">-73.9362077</SimpleData>
+		<SimpleData name="contact">(917) 492-0990</SimpleData>
+		<SimpleData name="address">2271 THIRD AVENUE
+NEW YORK, NY 10035</SimpleData>
+		<SimpleData name="lat">40.8025863</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9362077,40.8025863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HANAC</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">http://www.hanac.org/</SimpleData>
+		<SimpleData name="service">GED preparation classes</SimpleData>
+		<SimpleData name="lon">-73.945749</SimpleData>
+		<SimpleData name="contact">(212) 996-3949</SimpleData>
+		<SimpleData name="address">127 W. 127th Street, Room 219
+New York, NY 10027</SimpleData>
+		<SimpleData name="lat">40.8099512</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.945749,40.8099512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harlem Center for Education</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">http://www.harlemctred.com/HCEAbout.html</SimpleData>
+		<SimpleData name="service">GED classes; Career Counseling; Tutoring;</SimpleData>
+		<SimpleData name="lon">-73.951568</SimpleData>
+		<SimpleData name="contact">(212) 348-9200</SimpleData>
+		<SimpleData name="address">1 East 104 Street, Room 382, 
+New York NY 10029</SimpleData>
+		<SimpleData name="lat">40.7929785</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.951568,40.7929785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Booker T Washington Learning Center </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">http://www.bookert.org/programs.aspx</SimpleData>
+		<SimpleData name="service">Turning Point- GED Classes; </SimpleData>
+		<SimpleData name="lon">-73.9432722</SimpleData>
+		<SimpleData name="contact">212 831 5506 </SimpleData>
+		<SimpleData name="address">325 East 101st Street 
+New York, NY 10029 </SimpleData>
+		<SimpleData name="lat">40.7870521</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9432722,40.7870521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City College of New York Community Education Center</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">http://www.ccny.cuny.edu/cps/ged.cfm</SimpleData>
+		<SimpleData name="service">GED classes</SimpleData>
+		<SimpleData name="lon">-73.9506774</SimpleData>
+		<SimpleData name="contact">(212) 650-7312</SimpleData>
+		<SimpleData name="address">138th Street and Convent Avenue
+Shepard Building, Room 2
+New York, NY 10031</SimpleData>
+		<SimpleData name="lat">40.8270209</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9506774,40.8270209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Youth Build Manhattan </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">GED classes</SimpleData>
+		<SimpleData name="lon">-73.942868</SimpleData>
+		<SimpleData name="contact">212-244-1274</SimpleData>
+		<SimpleData name="address">4 West 125th Street, New York, NY 10027</SimpleData>
+		<SimpleData name="lat">40.8064302</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.942868,40.8064302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mid-Manhattan Adult Learning Center (MMALC) </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">GED classes</SimpleData>
+		<SimpleData name="lon">-73.9519147</SimpleData>
+		<SimpleData name="contact">212-666-1919</SimpleData>
+		<SimpleData name="address">212 West 120th Street
+New York, NY 10027</SimpleData>
+		<SimpleData name="lat">40.8059317</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9519147,40.8059317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LSA Family Health Service</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">http://www.littlesistersfamily.org/programs/overview</SimpleData>
+		<SimpleData name="service">GED classes in Spanish</SimpleData>
+		<SimpleData name="lon">-73.9366324</SimpleData>
+		<SimpleData name="contact">646.672.5200</SimpleData>
+		<SimpleData name="address">333 East 115th Street
+New York, NY 10029</SimpleData>
+		<SimpleData name="lat">40.7958757</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9366324,40.7958757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northern Manhattan Improvement Corporation </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">http://www.nmic.org/AdultEducation.htm</SimpleData>
+		<SimpleData name="service">GED classes; ESOL classes;</SimpleData>
+		<SimpleData name="lon">-73.9372948</SimpleData>
+		<SimpleData name="contact">(212) 822-8300</SimpleData>
+		<SimpleData name="address">45 Wadsworth AVE, NEW YORK, NY 10033</SimpleData>
+		<SimpleData name="lat">40.8461587</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9372948,40.8461587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Community Impact, Inc
+Columbia University</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">GED Classes; ESL; Spanish GED</SimpleData>
+		<SimpleData name="lon">-98.2529921</SimpleData>
+		<SimpleData name="contact">(212) 854-9621</SimpleData>
+		<SimpleData name="address">116th St &amp; Broadway, New York, NY, 10027 105 Earl Hall
+</SimpleData>
+		<SimpleData name="lat">45.7048307</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.2529921,45.7048307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manhattan EOC</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">http://meoc.bmcc.cuny.edu/</SimpleData>
+		<SimpleData name="service">GED prep; Job readiness training; college prep</SimpleData>
+		<SimpleData name="lon">-73.9474317</SimpleData>
+		<SimpleData name="contact">212-961-4400</SimpleData>
+		<SimpleData name="address">163 West 125th Street, 15th Floor
+New York, NY 10027</SimpleData>
+		<SimpleData name="lat">40.8092343</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9474317,40.8092343</coordinates></Point>
+  </Placemark>
+</Folder>
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="website" type="string"></SimpleField>
+	<SimpleField name="service" type="string"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="contact" type="string"></SimpleField>
+	<SimpleField name="address" type="string"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+</Schema>
+</Document></kml>

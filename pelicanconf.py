@@ -12,7 +12,6 @@ DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = [('Bio','/pages/bio.html'),
              ('Academic','/pages/academic.html'),
              ('Contact','/pages/contact.html'),
-             ('FCM-742','/pages/FCM742-01.html'),
 ]
 
 TIMEZONE = 'US/Eastern'
@@ -22,7 +21,7 @@ DELETE_OUTPUT_DIRECTORY = False
 USE_FOLDER_AS_CATEGORY = True
 
 DEFAULT_LANG = u'en'
-STATIC_PATHS = [ 'images', 'js','extra']
+STATIC_PATHS = [ 'kml','images', 'js','extra']
 IGNORE_FILES = ['.#*', '*~']
 GITHUB_URL = 'http://github.com/EvanMisshula/'
 

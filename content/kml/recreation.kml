@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OGRGeoJSON</name>
+  <Placemark>
+	<name>Hansborough Recreation Center</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Indoor Pool; Dance room; Computer Center; Fitness Room; Indoor Basketball Court; </SimpleData>
+		<SimpleData name="lon">-73.9392448</SimpleData>
+		<SimpleData name="contact">Center Manager: Jamil Phillips
+Phone: (212) 234-9602 (212) 234-9603</SimpleData>
+		<SimpleData name="address">35 West 134th Street
+New York, NY 10037</SimpleData>
+		<SimpleData name="lat">40.8128066</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9392448,40.8128066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Highbridge Recreation Center</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Indoor Pool; Computer Center; Game room; Playground; Baseball Field; Basketball Court; Fitness; Afterschool Room; Gym; </SimpleData>
+		<SimpleData name="lon">-73.9341991</SimpleData>
+		<SimpleData name="contact">Center Manager: Melody Rodriguez
+Phone: (212) 927-2012 </SimpleData>
+		<SimpleData name="address">2301 Amsterdam Avenue
+New York, NY 10033</SimpleData>
+		<SimpleData name="lat">40.8428043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9341991,40.8428043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jackie Robinson Recreation Center</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Indoor Pool, Playground, Fitness, Gym, Library, Cardio, Basketball Court</SimpleData>
+		<SimpleData name="lon">-73.9422368</SimpleData>
+		<SimpleData name="contact">Center Manager: Valerie Edwards
+Phone: (212) 234-9607 (212) 234-9608</SimpleData>
+		<SimpleData name="address">85 Bradhurst Avenue
+New York, NY 10039</SimpleData>
+		<SimpleData name="lat">40.8242006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9422368,40.8242006</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>J. Hood Wright Recreation Center</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Game room, computer center, playground, fitness, basketball court, table tennis, athletic field, handball court, pool table</SimpleData>
+		<SimpleData name="lon">-73.9404478</SimpleData>
+		<SimpleData name="contact">Deputy Center Manager: Vilma Jimenez
+Phone: (212) 927-1563 (212) 927-1514</SimpleData>
+		<SimpleData name="address">351 Fort Washington Avenue
+New York, NY 10033</SimpleData>
+		<SimpleData name="lat">40.8463854</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9404478,40.8463854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Morningside Field House</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Kitchen, Playground, Afterschool Room, Basketball court (outdoor)</SimpleData>
+		<SimpleData name="lon">-73.9549939</SimpleData>
+		<SimpleData name="contact">Center Manager: Sherrie Plowden
+Phone: (212) 280-0209 </SimpleData>
+		<SimpleData name="address">410 West 123rd Street
+New York, NY 10027</SimpleData>
+		<SimpleData name="lat">40.8100744</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9549939,40.8100744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pelham Fritz Recreation Center</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Pool (outdoor), dance room, kitchen, computer center, playground, fitness, baseball field, athletic field</SimpleData>
+		<SimpleData name="lon">-73.9448633</SimpleData>
+		<SimpleData name="contact">Deputy Center Manager: Dawn Louallen
+Phone: (212) 860-1380 </SimpleData>
+		<SimpleData name="address">18 Mount Morris Park West
+New York, NY 10027</SimpleData>
+		<SimpleData name="lat">40.8050093</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9448633,40.8050093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Thomas Jefferson Recreation Center</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Pool (Outdoor), playground, fitness, afterschool room, basketball court, soccer field, picnic area, athletic field, handball court, pool table</SimpleData>
+		<SimpleData name="lon">-73.9364916</SimpleData>
+		<SimpleData name="contact">Deputy Center Manager: Stephanie Hazell
+Phone: (212) 860-1383 (212) 860-1372</SimpleData>
+		<SimpleData name="address">2180 First Avenue
+New York, NY 10029</SimpleData>
+		<SimpleData name="lat">40.7935239</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9364916,40.7935239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Abe Lincoln Pool</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Outdoor Pool</SimpleData>
+		<SimpleData name="lon">-73.9969848</SimpleData>
+		<SimpleData name="contact">(212) 491-1714</SimpleData>
+		<SimpleData name="address">5th Avenue &amp; E. 135th Street</SimpleData>
+		<SimpleData name="lat">40.7314123</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9969848,40.7314123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lasker Pool</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Outdoor Pool</SimpleData>
+		<SimpleData name="lon">-95.4835385</SimpleData>
+		<SimpleData name="contact">(212-534-7639)</SimpleData>
+		<SimpleData name="address">100th street &amp; Lenox Avenue</SimpleData>
+		<SimpleData name="lat">44.828329</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.4835385,44.828329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sheltering Arms Pool</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Outdoor Pool</SimpleData>
+		<SimpleData name="lon">-73.9549904</SimpleData>
+		<SimpleData name="contact">(212) 662-6191</SimpleData>
+		<SimpleData name="address">W. 129th Street and Amesterdam Ave. </SimpleData>
+		<SimpleData name="lat">40.8151225</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9549904,40.8151225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wagner Pool</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Outdoor Pool</SimpleData>
+		<SimpleData name="lon">-73.9333333</SimpleData>
+		<SimpleData name="contact">(212) 534-4238</SimpleData>
+		<SimpleData name="address">E. 124th Street between First and Second Avenues</SimpleData>
+		<SimpleData name="lat">40.8019444</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9333333,40.8019444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Thomas Jefferson Pool</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Outdoor Pool</SimpleData>
+		<SimpleData name="lon">-73.9372674</SimpleData>
+		<SimpleData name="contact">(212) 860-1372</SimpleData>
+		<SimpleData name="address">E. 112th Street and First Avenue</SimpleData>
+		<SimpleData name="lat">40.7934543</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9372674,40.7934543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marcus Garvey Pool</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Outdoor Pool</SimpleData>
+		<SimpleData name="lon">-73.9427586</SimpleData>
+		<SimpleData name="contact">(212) 410-2818</SimpleData>
+		<SimpleData name="address">124th Street and Fifth Avenue</SimpleData>
+		<SimpleData name="lat">40.8057486</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9427586,40.8057486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Highbridge Pool</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Outdoor Pool</SimpleData>
+		<SimpleData name="lon">-73.9346667</SimpleData>
+		<SimpleData name="contact">(212) 927-2400</SimpleData>
+		<SimpleData name="address">Amsterdam Ave. and W. 173rd Street</SimpleData>
+		<SimpleData name="lat">40.8429613</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9346667,40.8429613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Frederick Douglass Pool</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Outdoor Mini Pool</SimpleData>
+		<SimpleData name="lon">4.8951679</SimpleData>
+		<SimpleData name="contact">(212) 316-3241</SimpleData>
+		<SimpleData name="address">Amsterdam Ave. between 100th &amp; 102nd Streets</SimpleData>
+		<SimpleData name="lat">52.3702157</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>4.8951679,52.3702157</coordinates></Point>
+  </Placemark>
+</Folder>
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="service" type="string"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="contact" type="string"></SimpleField>
+	<SimpleField name="address" type="string"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+</Schema>
+</Document></kml>

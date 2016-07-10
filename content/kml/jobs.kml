@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OGRGeoJSON</name>
+  <Placemark>
+	<name>Office of Children and Family Services</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">http://ocfs.ny.gov/main/</SimpleData>
+		<SimpleData name="service">Workforce Development</SimpleData>
+		<SimpleData name="lon">-73.9474317</SimpleData>
+		<SimpleData name="contact">(212) 383-1788</SimpleData>
+		<SimpleData name="address">Adam Clayton Powell, Jr. State Office Bldg. 14th Floor 
+163 W. 125th St., Harlem, NY 10027 </SimpleData>
+		<SimpleData name="lat">40.8092343</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9474317,40.8092343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harlem Grown</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">http://harlemgrown.com/</SimpleData>
+		<SimpleData name="service">Youth Development</SimpleData>
+		<SimpleData name="lon">-73.9427385</SimpleData>
+		<SimpleData name="contact">212-870-0113</SimpleData>
+		<SimpleData name="address">118 WEST 134 STREET ,
+MANHATTAN
+NY , 10030</SimpleData>
+		<SimpleData name="lat">40.8140065</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9427385,40.8140065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SCAN-New York</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">http://www.scanny.org/index.asp</SimpleData>
+		<SimpleData name="service">Workforce Development</SimpleData>
+		<SimpleData name="lon">-73.9423977</SimpleData>
+		<SimpleData name="contact">212-289-8030</SimpleData>
+		<SimpleData name="address">345 East 102nd Street New York, NY  10029</SimpleData>
+		<SimpleData name="lat">40.7875048</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9423977,40.7875048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Door</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">http://www.door.org/</SimpleData>
+		<SimpleData name="service">Education and workforce development</SimpleData>
+		<SimpleData name="lon">-74.0052646</SimpleData>
+		<SimpleData name="contact">Front desk: 212-941-9090 ext 3249</SimpleData>
+		<SimpleData name="address">121 Avenue of the Americas
+New York, NY  11106</SimpleData>
+		<SimpleData name="lat">40.7240859</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.0052646,40.7240859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STRIVE</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">http://striveinternational.org/</SimpleData>
+		<SimpleData name="service">Attitudinal and Job Readiness; Skills Training; Support Services; Job Placement</SimpleData>
+		<SimpleData name="lon">-73.9350819</SimpleData>
+		<SimpleData name="contact">(212) 360-1100</SimpleData>
+		<SimpleData name="address">240 East 123rd Street #302, New York, NY 10035</SimpleData>
+		<SimpleData name="lat">40.801377</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9350819,40.801377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Exodus Transitional Community</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">www.etcny.org</SimpleData>
+		<SimpleData name="service">Education and workforce development</SimpleData>
+		<SimpleData name="lon">-73.9362077</SimpleData>
+		<SimpleData name="contact">917.492.0990</SimpleData>
+		<SimpleData name="address">2271 Third Avenue, 2nd Floor New York, NY 10035 </SimpleData>
+		<SimpleData name="lat">40.8025863</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9362077,40.8025863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Greenhope Services for Women, Inc.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">www.greenhope.org</SimpleData>
+		<SimpleData name="service">Job Training; Vocational Counseling; Workshops;</SimpleData>
+		<SimpleData name="lon">-73.9325889</SimpleData>
+		<SimpleData name="contact">212.996.8633</SimpleData>
+		<SimpleData name="address">435 East 119th Street New York, NY 10035</SimpleData>
+		<SimpleData name="lat">40.7974374</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9325889,40.7974374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New York City Justice Corps</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">nycjusticecorps.org/</SimpleData>
+		<SimpleData name="service">Job Readiness program</SimpleData>
+		<SimpleData name="lon">-73.945749</SimpleData>
+		<SimpleData name="contact">917.243.7000</SimpleData>
+		<SimpleData name="address">127 West 127th Street, Room 123
+New York, NY 10027</SimpleData>
+		<SimpleData name="lat">40.8099512</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.945749,40.8099512</coordinates></Point>
+  </Placemark>
+</Folder>
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="website" type="string"></SimpleField>
+	<SimpleField name="service" type="string"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="contact" type="string"></SimpleField>
+	<SimpleField name="address" type="string"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+</Schema>
+</Document></kml>

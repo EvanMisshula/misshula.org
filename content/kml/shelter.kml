@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OGRGeoJSON</name>
+  <Placemark>
+	<name>Center For Court Innovation/Harlem Community Justice Center</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Housing for youth</SimpleData>
+		<SimpleData name="lon">-73.9384913</SimpleData>
+		<SimpleData name="contact">(212) 360-4100; Deputy Director: John Megaw 212-360-8749</SimpleData>
+		<SimpleData name="address">170 E 121st St
+New York, NY 10035</SimpleData>
+		<SimpleData name="lat">40.8013026</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9384913,40.8013026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>YMCA Harlem Guest Rooms</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Housing for youth</SimpleData>
+		<SimpleData name="lon">-73.9429734</SimpleData>
+		<SimpleData name="contact">212-912-2100; Gary Villaverde-(917) 441-8800</SimpleData>
+		<SimpleData name="address">180 W 135th St, New York, NY 10030</SimpleData>
+		<SimpleData name="lat">40.8147175</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9429734,40.8147175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Homeless-Safe Horizon</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Housing</SimpleData>
+		<SimpleData name="lon">-73.940307</SimpleData>
+		<SimpleData name="contact">Hotline: 866.604.5350 ext.1110; ask for Social Worker: Craig Tunner.</SimpleData>
+		<SimpleData name="address">100 E 122nd St, New York, NY 10035</SimpleData>
+		<SimpleData name="lat">40.802858</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.940307,40.802858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ali Forney Center</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Housing for homless LGBT youth</SimpleData>
+		<SimpleData name="lon">-73.9521974</SimpleData>
+		<SimpleData name="contact">(212) 222-3427; Director: Milered Ramos EXT. 307</SimpleData>
+		<SimpleData name="address">321 W 125th St, New York, NY 10027</SimpleData>
+		<SimpleData name="lat">40.8108692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9521974,40.8108692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Harlem Residence </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.9390934</SimpleData>
+		<SimpleData name="contact">(212) 281-3001</SimpleData>
+		<SimpleData name="address">138 W 143rd St, New York, NY 10030</SimpleData>
+		<SimpleData name="lat">40.8197462</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9390934,40.8197462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cecil Hotel</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.9522994</SimpleData>
+		<SimpleData name="contact">(212) 864-5281</SimpleData>
+		<SimpleData name="address">206 W 118th St,  New York, NY 10026</SimpleData>
+		<SimpleData name="lat">40.8046775</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9522994,40.8046775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Harlem Group. INC/Convent Family Living Center</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.9422042</SimpleData>
+		<SimpleData name="contact">212) 866-7816</SimpleData>
+		<SimpleData name="address">34 W 129th St, New York, NY 10027</SimpleData>
+		<SimpleData name="lat">40.8095323</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9422042,40.8095323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway Housing Development</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.9569356</SimpleData>
+		<SimpleData name="contact">212) 568-2030</SimpleData>
+		<SimpleData name="address">583 Riverside Dr, New York, NY 10031</SimpleData>
+		<SimpleData name="lat">40.8211907</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9569356,40.8211907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Palladia</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.9442054</SimpleData>
+		<SimpleData name="contact">(212) 680-4555</SimpleData>
+		<SimpleData name="address">205 W 135th St, New York, NY 10030</SimpleData>
+		<SimpleData name="lat">40.8158283</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9442054,40.8158283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dawn Hotel of NY</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.9422673</SimpleData>
+		<SimpleData name="contact">(212) 368-0300</SimpleData>
+		<SimpleData name="address">6 St Nicholas Pl, New York, NY 10031</SimpleData>
+		<SimpleData name="lat">40.8268415</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9422673,40.8268415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aguila Foundation Inc</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.9499206</SimpleData>
+		<SimpleData name="contact">(212) 865-8508</SimpleData>
+		<SimpleData name="address">2027 7th Ave,New York, NY 10027</SimpleData>
+		<SimpleData name="lat">40.8066149</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9499206,40.8066149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Safe Horizon </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.944435</SimpleData>
+		<SimpleData name="contact">(212) 695-2220</SimpleData>
+		<SimpleData name="address">1868 Amsterdam Ave, New York, NY 10031</SimpleData>
+		<SimpleData name="lat">40.830123</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.944435,40.830123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Housing Partners of New York </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.938588</SimpleData>
+		<SimpleData name="contact">(212) 939-9450 </SimpleData>
+		<SimpleData name="address">141 W 144th St, New York, NY 10030</SimpleData>
+		<SimpleData name="lat">40.820794</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.938588,40.820794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Park View Hotel </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.9517994</SimpleData>
+		<SimpleData name="contact">212) 369-7496 </SimpleData>
+		<SimpleData name="address">55 W 110TH St, New York, NY 10026</SimpleData>
+		<SimpleData name="lat">40.7983192</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9517994,40.7983192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Riverton Hotel </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.9423088</SimpleData>
+		<SimpleData name="contact">212) 234-6861 </SimpleData>
+		<SimpleData name="address">441 Malcolm X Blvd, New York, NY 10037</SimpleData>
+		<SimpleData name="lat">40.8122636</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9423088,40.8122636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western United Comm Referral </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.9544488</SimpleData>
+		<SimpleData name="contact">212) 866-4032 </SimpleData>
+		<SimpleData name="address">203 W 113th St,New York, NY 10026</SimpleData>
+		<SimpleData name="lat">40.8017421</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9544488,40.8017421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pathways To Housing Act Team </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.9372032</SimpleData>
+		<SimpleData name="contact">(212) 289-2144 </SimpleData>
+		<SimpleData name="address">186 E 123rd St #3, New York, NY 10035</SimpleData>
+		<SimpleData name="lat">40.8024886</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9372032,40.8024886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harriet Tubman Family Living </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.9390934</SimpleData>
+		<SimpleData name="contact">212) 281-3001</SimpleData>
+		<SimpleData name="address">138 W 143rd St,  New York, NY 10030</SimpleData>
+		<SimpleData name="lat">40.8197462</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9390934,40.8197462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bridge Inc</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.945603</SimpleData>
+		<SimpleData name="contact">212) 234-0761 </SimpleData>
+		<SimpleData name="address">1793 Amsterdam Ave, New York, NY 10031</SimpleData>
+		<SimpleData name="lat">40.8275264</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.945603,40.8275264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Create Inc </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.9456129</SimpleData>
+		<SimpleData name="contact">212) 662-2087</SimpleData>
+		<SimpleData name="address">133 W 128TH St,  New York, NY 10027</SimpleData>
+		<SimpleData name="lat">40.8105658</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9456129,40.8105658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Old Broadway Hotel Corp</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.9569938</SimpleData>
+		<SimpleData name="contact">212) 316-7030 </SimpleData>
+		<SimpleData name="address">540 W 126TH St, New York, NY 10027</SimpleData>
+		<SimpleData name="lat">40.8153163</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9569938,40.8153163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Foster House 2114</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.9400955</SimpleData>
+		<SimpleData name="contact">212) 828-8059 </SimpleData>
+		<SimpleData name="address">2114 5th Ave, New York, NY 10035</SimpleData>
+		<SimpleData name="lat">40.8094134</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9400955,40.8094134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Basics INC</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.9380394</SimpleData>
+		<SimpleData name="contact">212) 234-0138</SimpleData>
+		<SimpleData name="address">27 E 131st St, New York, NY 10037</SimpleData>
+		<SimpleData name="lat">40.8097443</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9380394,40.8097443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jennie Clark Residence </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.9482768</SimpleData>
+		<SimpleData name="contact">212) 360-5477</SimpleData>
+		<SimpleData name="address">183 E 100th S, New York, NY 10029</SimpleData>
+		<SimpleData name="lat">40.7883292</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9482768,40.7883292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Project Renewal</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.941251</SimpleData>
+		<SimpleData name="contact">212) 740-1780</SimpleData>
+		<SimpleData name="address">216 Fort Washington Ave, New York, NY 10032</SimpleData>
+		<SimpleData name="lat">40.8421049</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.941251,40.8421049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Frant Hotel </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.9687112</SimpleData>
+		<SimpleData name="contact">212) 864-7400 </SimpleData>
+		<SimpleData name="address">211 W 101ST St, New York, NY 10025</SimpleData>
+		<SimpleData name="lat">40.7977877</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9687112,40.7977877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bowery Resident Committee </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.9378629</SimpleData>
+		<SimpleData name="contact">212) 996-8363</SimpleData>
+		<SimpleData name="address">2027 Lexington Ave, New York, NY 10035</SimpleData>
+		<SimpleData name="lat">40.8034458</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9378629,40.8034458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Volunteers of America</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-86.9079802</SimpleData>
+		<SimpleData name="contact">212) 865-7000</SimpleData>
+		<SimpleData name="address">1932 2nd Ave # 3C, New York, NY 10029</SimpleData>
+		<SimpleData name="lat">34.3658916</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-86.9079802,34.3658916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Valley Lodge </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">homeless shelter</SimpleData>
+		<SimpleData name="lon">-73.96363</SimpleData>
+		<SimpleData name="contact">212) 678-0570</SimpleData>
+		<SimpleData name="address">149 W 108th St, New York, NY 10025</SimpleData>
+		<SimpleData name="lat">40.801519</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.96363,40.801519</coordinates></Point>
+  </Placemark>
+</Folder>
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="service" type="string"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="contact" type="string"></SimpleField>
+	<SimpleField name="address" type="string"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+</Schema>
+</Document></kml>

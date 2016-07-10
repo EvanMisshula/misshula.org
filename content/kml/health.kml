@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OGRGeoJSON</name>
+  <Placemark>
+	<name>The Children's Aid Society</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Mental Health, Dental, Medical</SimpleData>
+		<SimpleData name="lon">-73.9863577</SimpleData>
+		<SimpleData name="contact">(212) 949-4800</SimpleData>
+		<SimpleData name="address">105 East 22nd Street
+New York, NY 10010</SimpleData>
+		<SimpleData name="lat">40.7394918</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9863577,40.7394918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>East Harlem Health Outreach Partnership (EHHOP) </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Adult primary care, physicals, laboratory services, and social work </SimpleData>
+		<SimpleData name="lon">-73.9520122</SimpleData>
+		<SimpleData name="contact">Phone: 626-942-6519
+Tel: 877-372-4161</SimpleData>
+		<SimpleData name="address">17 East 102nd Street, 7th Floor, New York, NY 10029</SimpleData>
+		<SimpleData name="lat">40.791484</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9520122,40.791484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Johnson Counseling Center</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Mental Health: Counseling, HIV/AIDS</SimpleData>
+		<SimpleData name="lon">-73.9403517</SimpleData>
+		<SimpleData name="contact">(212) 828-6118</SimpleData>
+		<SimpleData name="address">2089 3rd Avenue
+New York, NY 10029</SimpleData>
+		<SimpleData name="lat">40.7966251</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9403517,40.7966251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Association to Benefit Children</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Mental Health, treatment, interventions</SimpleData>
+		<SimpleData name="lon">-73.9380043</SimpleData>
+		<SimpleData name="contact">Contact: Isabelle Garcia 646-459-6163</SimpleData>
+		<SimpleData name="address">1841 Park Avenue, New York, NY 10035</SimpleData>
+		<SimpleData name="lat">40.8056986</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9380043,40.8056986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Graham Windham</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Provides weekly indivudual therapy, group
+therapy and support groups, family therapy, and psychiatric evaluation
+sand consultations. Children and adolescents ages 4 to 18</SimpleData>
+		<SimpleData name="lon">-73.94172</SimpleData>
+		<SimpleData name="contact">212-368-4100</SimpleData>
+		<SimpleData name="address">274 W 145th Street, 2nd Floor , New York, NY 10039</SimpleData>
+		<SimpleData name="lat">40.822547</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.94172,40.822547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northside Center for Child
+Development
+Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">For mental health services: Children
+ages 5 to 17 and their families</SimpleData>
+		<SimpleData name="lon">-73.9481277</SimpleData>
+		<SimpleData name="contact">Contact: Anita Flecher 212-426-3400 x3402</SimpleData>
+		<SimpleData name="address">35 East 110 th Street, New York, NY, 10029</SimpleData>
+		<SimpleData name="lat">40.7965189</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9481277,40.7965189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Union Settlement Association Inc.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Provides family therapy, couples therapy, HIV/AIDS and
+mental health services, case management and geriatric counseling</SimpleData>
+		<SimpleData name="lon">-73.9403517</SimpleData>
+		<SimpleData name="contact">Contact: Jennifer Rocha 212-828-6144 </SimpleData>
+		<SimpleData name="address">2089 Third Avenue, New York, NY 10029</SimpleData>
+		<SimpleData name="lat">40.7966251</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9403517,40.7966251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Third Avenue Pediatrics</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Medicaid, Children and adolescents from birth to 21 years of age</SimpleData>
+		<SimpleData name="lon">-73.943615</SimpleData>
+		<SimpleData name="contact">Contact: 212-831-9254</SimpleData>
+		<SimpleData name="address">1980 Third Avenue, New York, NY 10029</SimpleData>
+		<SimpleData name="lat">40.79346</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.943615,40.79346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New York Foundling North Manhattan Family and Community Services</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Adolensents, Mental Health Clinics, substance treatment</SimpleData>
+		<SimpleData name="lon">-73.9624327</SimpleData>
+		<SimpleData name="contact">Phone: 718-772-0200
+</SimpleData>
+		<SimpleData name="address">2090 Adam Clayton Powell Jr. Blvd, 7th A
+New York, NY 10027</SimpleData>
+		<SimpleData name="lat">40.8138912</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9624327,40.8138912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boriken Neighborhood Health Ctr.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Adolensents, Mental Health Clinics, substance treatment</SimpleData>
+		<SimpleData name="lon">-73.936767</SimpleData>
+		<SimpleData name="contact">Phone: 212-289-6650
+Fax: 212-360-6149</SimpleData>
+		<SimpleData name="address">2265 3rd Avenue
+(Corner of 123rd St.)
+New York, NY, 10035</SimpleData>
+		<SimpleData name="lat">40.8023937</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.936767,40.8023937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Family Health Center.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Primary health care for children and adults
+Women's health and prenatal care
+Care for diabetes, heart disease, HIV/AIDS and more
+Mental Health
+Dental Care</SimpleData>
+		<SimpleData name="lon">-73.9374917</SimpleData>
+		<SimpleData name="contact">212-423-4500 </SimpleData>
+		<SimpleData name="address">1824 Madison Avenue 119th Street, New York, NY 10039</SimpleData>
+		<SimpleData name="lat">40.7994191</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9374917,40.7994191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>East Harlem Council for Human
+Services</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Dental, medicare, counseling and testing, adolescent health
+servcies</SimpleData>
+		<SimpleData name="lon">-73.9365594</SimpleData>
+		<SimpleData name="contact">Contact: 212-289-6650</SimpleData>
+		<SimpleData name="address">2253 Third Avenue, 3rd Floor, New York, NY 10035</SimpleData>
+		<SimpleData name="lat">40.8020607</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9365594,40.8020607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Institute for Family Health</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Clinics, Dental </SimpleData>
+		<SimpleData name="lon">-73.9417166</SimpleData>
+		<SimpleData name="contact">Contact: 212-423-4500 </SimpleData>
+		<SimpleData name="address">1879 Madison Avenue</SimpleData>
+		<SimpleData name="lat">40.8032562</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9417166,40.8032562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunlevy Milbank Center</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Dental,  youth development services</SimpleData>
+		<SimpleData name="lon">-73.9469758</SimpleData>
+		<SimpleData name="contact">childrensaidsociety.org
+(212) 996-1716</SimpleData>
+		<SimpleData name="address">14-32 West 118th Street
+New York, NY 10026</SimpleData>
+		<SimpleData name="lat">40.8023322</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9469758,40.8023322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harlem Children's Zone</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">2-18, Health</SimpleData>
+		<SimpleData name="lon">-73.9410197</SimpleData>
+		<SimpleData name="contact">212-360-3255</SimpleData>
+		<SimpleData name="address">35 East 125th St., New York, NY 10035</SimpleData>
+		<SimpleData name="lat">40.806204</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9410197,40.806204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VIDA Family Services, Inc.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Individuals 16 and up with or without
+children. treatment programs</SimpleData>
+		<SimpleData name="lon">-73.9471471</SimpleData>
+		<SimpleData name="contact">Contact: Mary Morgan 212-289-1004x16
+galejandrovida@aol.com</SimpleData>
+		<SimpleData name="address">127 East 105th Street, New York, NY 10029</SimpleData>
+		<SimpleData name="lat">40.7919441</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9471471,40.7919441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Phoenix House</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">youth, drug and alcohol rehabilitation</SimpleData>
+		<SimpleData name="lon">-73.938037</SimpleData>
+		<SimpleData name="contact">phoenixhouse.org
+(212) 831-1555</SimpleData>
+		<SimpleData name="address">2191 3rd Avenue
+New York, NY 10035</SimpleData>
+		<SimpleData name="lat">40.800025</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.938037,40.800025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Brotherhood/Sister Sol</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">6-19, Drug Prevention/Education, Anger/Violence Prevention</SimpleData>
+		<SimpleData name="lon">-73.9499936</SimpleData>
+		<SimpleData name="contact">212-283-7044</SimpleData>
+		<SimpleData name="address">512 West 143rd Street, New York, NY 10031</SimpleData>
+		<SimpleData name="lat">40.824347</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9499936,40.824347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harlem Children's Health Project (HCHP)</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">4-18, youth, drug, counseling </SimpleData>
+		<SimpleData name="lon">-73.9410197</SimpleData>
+		<SimpleData name="contact">646-537-4229</SimpleData>
+		<SimpleData name="address">35 E 125th Street,New York, NY 10035</SimpleData>
+		<SimpleData name="lat">40.806204</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9410197,40.806204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harlem RBI, Inc.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">7-18, Family and Individual Counseling</SimpleData>
+		<SimpleData name="lon">-113.4887591</SimpleData>
+		<SimpleData name="contact">212-360-8747</SimpleData>
+		<SimpleData name="address">333 E 100th St. 1 FL. 212-722-1608</SimpleData>
+		<SimpleData name="lat">53.5123183</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-113.4887591,53.5123183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>El Faro Beacon</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">5-18, Familiy counseling</SimpleData>
+		<SimpleData name="lon">-73.938135</SimpleData>
+		<SimpleData name="contact">212-426-2000</SimpleData>
+		<SimpleData name="address">2153 1st Avenue, New York, NY 10029</SimpleData>
+		<SimpleData name="lat">40.79323</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.938135,40.79323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NYC Mission Society-Minisink Townhouse</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">6-23, Prevention Services</SimpleData>
+		<SimpleData name="lon">-73.9374301</SimpleData>
+		<SimpleData name="contact">212-368-8400</SimpleData>
+		<SimpleData name="address">646 Lenox Avenue, New York, NY, 10037</SimpleData>
+		<SimpleData name="lat">40.8186541</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9374301,40.8186541</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Project Impact- Mt. Sinai Adolescent Health Center</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">12-22, Counseling, HIV, LGBT,Medical</SimpleData>
+		<SimpleData name="lon">-73.9471882</SimpleData>
+		<SimpleData name="contact">212-423-2894</SimpleData>
+		<SimpleData name="address">312 94th Street, New York, NY 10128</SimpleData>
+		<SimpleData name="lat">40.7823328</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9471882,40.7823328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Safe Horizon's Streetwork Project &quot;Harlem&quot; Drop-In Center</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">14-23, Legal, Medical, Counseling, GED, Housing, Food, Clothes, HIV Prevention</SimpleData>
+		<SimpleData name="lon">-73.9487839</SimpleData>
+		<SimpleData name="contact">212-695-2220</SimpleData>
+		<SimpleData name="address">209 West 125th St, New York, NY 10027</SimpleData>
+		<SimpleData name="lat">40.8093846</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9487839,40.8093846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Union Settlement Assoication - Washington Community Center </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">5-24, Childcare, Jobs, Counseling</SimpleData>
+		<SimpleData name="lon">-73.9475433</SimpleData>
+		<SimpleData name="contact">212-828-6111</SimpleData>
+		<SimpleData name="address">1775 3rd Ave, New York, NY 10029</SimpleData>
+		<SimpleData name="lat">40.7862549</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9475433,40.7862549</coordinates></Point>
+  </Placemark>
+</Folder>
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="service" type="string"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="contact" type="string"></SimpleField>
+	<SimpleField name="address" type="string"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+</Schema>
+</Document></kml>

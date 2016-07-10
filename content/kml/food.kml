@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OGRGeoJSON</name>
+  <Placemark>
+	<name>A New Beginning International Ministry</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Soup Kitchen; Kitchen Pantry</SimpleData>
+		<SimpleData name="notes">Foodbags provide each family member with three meals for three days.                                  </SimpleData>
+		<SimpleData name="lon">-73.9395518</SimpleData>
+		<SimpleData name="hours">Soup Kitchen: Dinner every Tuesday &amp; Thursday 7.00-8.00pm; Pantry distribution: Sunday 1.00-2.00pm</SimpleData>
+		<SimpleData name="contact"></SimpleData>
+		<SimpleData name="address">180 East 118th Street, New York, NY 10035</SimpleData>
+		<SimpleData name="lat">40.7993276</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9395518,40.7993276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beth Hark Christian Counseling Center</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">http://www.bethharkccc.org/</SimpleData>
+		<SimpleData name="service">Soup Kitchen &amp; Food Pantry</SimpleData>
+		<SimpleData name="notes">The Beth-Hark Christian Counseling Center, Inc. (BHCCC) aspires to relieve suffering and promote healthy relationships through excellent and accessible services to all who are in need. These services are provided without regard to creed, color or socio-economic status by competent staff who strive to faithfully integrate Christian/Biblical truths with principles of pastoral care.</SimpleData>
+		<SimpleData name="lon">-73.9433596</SimpleData>
+		<SimpleData name="hours">Pantry Program:every Tuesday                        Soup Kitchen:Wednesdays and Thursdays, 12:00pm-2:00pm. *closed June 5 to September 10</SimpleData>
+		<SimpleData name="contact">Main Office                (212) 860-1523; Julie Girard/Program Coordinator- (212) 860-1520; Williams-Jarrell, Joan M/Executive Director- (212) 860 -1520</SimpleData>
+		<SimpleData name="address">1832 Madison Avenue 
+New York, NY 10035</SimpleData>
+		<SimpleData name="lat">40.8019947</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9433596,40.8019947</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bethel Holy Church</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">http://bhcny.org/</SimpleData>
+		<SimpleData name="service">Soup Kitchen; Food Pantry</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.9408295</SimpleData>
+		<SimpleData name="hours">Soup Kitchen: Tuesday 12.00-2.00pm Pantry Bag Distribution: Wednesday 12.00pm-1.30pm</SimpleData>
+		<SimpleData name="contact">Cardella Jackson
+Tel: 212-926-6753</SimpleData>
+		<SimpleData name="address">922 St. Nicholas Avenue 
+New York, NY 10032</SimpleData>
+		<SimpleData name="lat">40.8315214</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9408295,40.8315214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Billy Roberts House of Hope</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Soup Kitchen</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.952315</SimpleData>
+		<SimpleData name="hours">Mondays and Thursdays 12.00-2.00pm</SimpleData>
+		<SimpleData name="contact">Kim Haynes/Deacon John Banks
+Tel: 212-663-3532</SimpleData>
+		<SimpleData name="address">302 West 124th Street 
+New York, NY 10027</SimpleData>
+		<SimpleData name="lat">40.8095395</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.952315,40.8095395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway Community Inc</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">http://www.broadwaycommunity.org/</SimpleData>
+		<SimpleData name="service">Soup Kitchen; Food Pantry; Clothing Pantry</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.9651341</SimpleData>
+		<SimpleData name="hours">Mondays and Wednesdays 12.30-2.00pm</SimpleData>
+		<SimpleData name="contact">Michael B. Ennes
+Tel: 212-864-6100 x. 123</SimpleData>
+		<SimpleData name="address">601 West 114th Street 
+New York, NY 10025</SimpleData>
+		<SimpleData name="lat">40.8070418</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9651341,40.8070418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cathedral Community Cares</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website">http://www.stjohndivine.org/social/soup-kitchen</SimpleData>
+		<SimpleData name="service">Soup Kitchen</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.9617419</SimpleData>
+		<SimpleData name="hours">Sundays 10.30am-2.00pm </SimpleData>
+		<SimpleData name="contact">Thomas Perry
+Tel: 212-316-7583</SimpleData>
+		<SimpleData name="address">1047 Amsterdam Avenue 
+New York, NY 10025</SimpleData>
+		<SimpleData name="lat">40.8037712</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9617419,40.8037712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Central Harlem Alcohol Crisis Center</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Soup Kitchen; Food Pantry </SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.9540759</SimpleData>
+		<SimpleData name="hours">Monday, Tuesday, Wednesday, Thursday, Friday 8.15am-8.45am (breakfast); 12.15pm-1.45pm (Lunch); 5.45-6.15pm (Dinner) </SimpleData>
+		<SimpleData name="contact">Eric Vargas
+Tel: 212-865-6133</SimpleData>
+		<SimpleData name="address">419 West 126th Street 
+New York, NY 10027</SimpleData>
+		<SimpleData name="lat">40.8127729</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9540759,40.8127729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Community Food Program North Presbyterian Church</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Soup Kitchen</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.9442414</SimpleData>
+		<SimpleData name="hours">Saturday 12.00-2.00pm (lunch)</SimpleData>
+		<SimpleData name="contact">Shirley Fleming
+Tel: 917-916-8077</SimpleData>
+		<SimpleData name="address">525 West 155th Street 
+New York, NY 10032</SimpleData>
+		<SimpleData name="lat">40.8324825</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9442414,40.8324825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Community Impact</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Soup Kitchen; Food Pantry</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.965904</SimpleData>
+		<SimpleData name="hours">SK: Friday 12.15pm-1.15pm (lunch); FP: Monday and Thursday 12.30pm-2.00pm</SimpleData>
+		<SimpleData name="contact">Kathy Santil/Sandy Helling
+Tel: 212-854-9621</SimpleData>
+		<SimpleData name="address">616 West 114th Street 
+New York, NY 10025</SimpleData>
+		<SimpleData name="lat">40.8068979</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.965904,40.8068979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Community Kitchen and Food Pantry of West Harlem</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Soup Kitchen</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.9549883</SimpleData>
+		<SimpleData name="hours">Monday-Friday 4.00-6.00pm (dinner)</SimpleData>
+		<SimpleData name="contact">Daryl Foriest
+Tel: 212-566-7855 x8231</SimpleData>
+		<SimpleData name="address">252 West 116th Street 
+New York, NY 10026</SimpleData>
+		<SimpleData name="lat">40.8039505</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9549883,40.8039505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Friendly Hands Ministry Inc.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Soup Kitchen; Food Pantry</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.9376214</SimpleData>
+		<SimpleData name="hours">SK: Monday, Tuesday, Thursday 12.00-2.00pm; Food Pantry: Wednesday 9.00am-12.00pm</SimpleData>
+		<SimpleData name="contact">Rosalin Disla
+Tel: 917-365-6684</SimpleData>
+		<SimpleData name="address">225-41 E 118th Street 
+New York, NY 10035</SimpleData>
+		<SimpleData name="lat">40.7988305</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9376214,40.7988305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Holy Ghost Pentecostal Church</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Soup Kitchen</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.9416815</SimpleData>
+		<SimpleData name="hours">Wednesday 12.00-1.30pm (lunch)</SimpleData>
+		<SimpleData name="contact">Laverne Randolph
+Tel: 845-299-5010</SimpleData>
+		<SimpleData name="address">13-15 East 125th Street 
+New York, NY 10035</SimpleData>
+		<SimpleData name="lat">40.8061937</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9416815,40.8061937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mt. Zion AME Church</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Soup Kitchen</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.944726</SimpleData>
+		<SimpleData name="hours">Wednesday 12.00-1.00pm *closed July and August</SimpleData>
+		<SimpleData name="contact">Valerie Williams-Riedemonn
+Tel: 212-369-6643</SimpleData>
+		<SimpleData name="address">1765 Madison Avenue 
+New York, NY 10029</SimpleData>
+		<SimpleData name="lat">40.7996973</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.944726,40.7996973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mt.Olivet Baptist Church Community Meal Program</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Soup Kitchen</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.9478805</SimpleData>
+		<SimpleData name="hours">Monday 12.00-1.30pm (lunch)</SimpleData>
+		<SimpleData name="contact">Deaconess Joslyn Gonsalves
+Tel: 212-864-1155/646-226-3977</SimpleData>
+		<SimpleData name="address">201 Lenox Avenue 
+New York, NY 10027</SimpleData>
+		<SimpleData name="lat">40.8046494</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9478805,40.8046494</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New York Common Pantry</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Soup Kitchen</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.949229</SimpleData>
+		<SimpleData name="hours">Monday-Friday 8.00am-9.30am (breakfast); Monday, Wednesday, Friday 4.30pm-6.00pm (dinner)</SimpleData>
+		<SimpleData name="contact">Jessica Koschek
+Tel: 212-410-2264</SimpleData>
+		<SimpleData name="address">8 East 109th Street 
+New York, NY 10029 
+</SimpleData>
+		<SimpleData name="lat">40.7957862</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.949229,40.7957862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Salem United Methodist Church</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Soup Kitchen</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.947053</SimpleData>
+		<SimpleData name="hours">Wednesday, Friday 8.am-12.00pm</SimpleData>
+		<SimpleData name="contact">Barbara Ellison Miller
+Tel: 212-678-2700</SimpleData>
+		<SimpleData name="address">211 West 129th Street 
+New York, NY 10027</SimpleData>
+		<SimpleData name="lat">40.812</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.947053,40.812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shiloh Church of Christ</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Soup Kitchen</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.9412803</SimpleData>
+		<SimpleData name="hours">Monday and Tuesday 12.00pm-1.00pm </SimpleData>
+		<SimpleData name="contact">Albertha Shumpert
+Tel: 201-833-2810</SimpleData>
+		<SimpleData name="address">5-7 West 128th Street 
+New York, NY 10027
+</SimpleData>
+		<SimpleData name="lat">40.8087652</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9412803,40.8087652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>African Services Committee</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Food Pantry; Housing Placement</SimpleData>
+		<SimpleData name="notes">Walk-in Monday-Friday, 9:00am-5:00pm</SimpleData>
+		<SimpleData name="lon">-73.954512</SimpleData>
+		<SimpleData name="hours">Monday to Friday 9.00am-5.00pm; Walk-in</SimpleData>
+		<SimpleData name="contact">Ndeye Gueye
+Tel: 212-222-3882 x125</SimpleData>
+		<SimpleData name="address">429 West 127th Street, 2nd Floor, New York, NY 10027              </SimpleData>
+		<SimpleData name="lat">40.8134535</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.954512,40.8134535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>All Saints RC Church</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Food Pantry</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.9382037</SimpleData>
+		<SimpleData name="hours">Saturday 8.30am-10.30am</SimpleData>
+		<SimpleData name="contact">Mia Parker: Tel: 212-534-3535</SimpleData>
+		<SimpleData name="address">47 East 129th Street 
+New York, NY 10035</SimpleData>
+		<SimpleData name="lat">40.8084859</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9382037,40.8084859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Antioch Outreach</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Food Pantry</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.9442241</SimpleData>
+		<SimpleData name="hours">Saturday 8.30am-10.30am</SimpleData>
+		<SimpleData name="contact">Peggy Allen
+Tel: 917-974-8261</SimpleData>
+		<SimpleData name="address">41 West 124th Street 
+New York, NY 10024</SimpleData>
+		<SimpleData name="lat">40.8065808</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9442241,40.8065808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bailey House Inc. Adult &amp; Family</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Food Pantry</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.9403849</SimpleData>
+		<SimpleData name="hours">Wednesday &amp; Friday 12.00pm-1.30pm</SimpleData>
+		<SimpleData name="contact">Lauren Pallies
+Tel: 212-633-2500</SimpleData>
+		<SimpleData name="address">1751 Park Avenue 3rd Floor
+New York, NY 10035</SimpleData>
+		<SimpleData name="lat">40.8026887</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9403849,40.8026887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chambers Memorial Baptist Church</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Food Pantry</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.9358516</SimpleData>
+		<SimpleData name="hours">Bag Distribution: Wednesday, Thursday, Friday 1-.00am-3.00pm</SimpleData>
+		<SimpleData name="contact">Swann Streety
+Tel: 917-822-6429</SimpleData>
+		<SimpleData name="address">219 East 123rd Street 
+New York, NY 10035</SimpleData>
+		<SimpleData name="lat">40.8022547</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9358516,40.8022547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Church of the Crucifixion</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Food Pantry</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.944549</SimpleData>
+		<SimpleData name="hours">Tuesday 1.00pm-2.00pm</SimpleData>
+		<SimpleData name="contact">Christina Neptune
+Tel: 718-227-8480</SimpleData>
+		<SimpleData name="address">459 West 149th Street 
+New York, NY 10031</SimpleData>
+		<SimpleData name="lat">40.8275433</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.944549,40.8275433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Emmanuel AME Church</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Food Pantry</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.9461369</SimpleData>
+		<SimpleData name="hours">Wednesday 11.30am-12.30pm</SimpleData>
+		<SimpleData name="contact">Sara Tinsley
+Tel: 212-722-3969</SimpleData>
+		<SimpleData name="address">37-41 West 119th Street 
+New York, NY 10026</SimpleData>
+		<SimpleData name="lat">40.803308</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9461369,40.803308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Faces NY Inc.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Food Pantry</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.951199</SimpleData>
+		<SimpleData name="hours">Thursday 10.00am-1.00pm</SimpleData>
+		<SimpleData name="contact">Jody Stovell
+Tel: 212-663-7772 ext. 213</SimpleData>
+		<SimpleData name="address">123 West 115th Street 
+New York, NY 10026</SimpleData>
+		<SimpleData name="lat">40.802028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.951199,40.802028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>First Corinthian Baptist Church</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Food Pantry</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.953161</SimpleData>
+		<SimpleData name="hours">Friday 1.00pm-3.00pm *Produce only; </SimpleData>
+		<SimpleData name="contact">Tricia Franklin
+Tel: 917-903-5013</SimpleData>
+		<SimpleData name="address">1912 Adam Clayton Powell Jr. Blvd.
+New York, NY 10026</SimpleData>
+		<SimpleData name="lat">40.8031897</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.953161,40.8031897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>First Grace Baptist Church</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Food Pantry</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.9404632</SimpleData>
+		<SimpleData name="hours">Friday 1.00pm-3.00pm</SimpleData>
+		<SimpleData name="contact">Karen McRae
+Tel: 212-491-7973</SimpleData>
+		<SimpleData name="address">2799 Fredrick Douglas Blvd 
+New York, NY 10039</SimpleData>
+		<SimpleData name="lat">40.8253502</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9404632,40.8253502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fraternite Notre Dame</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Food Pantry</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.9343397</SimpleData>
+		<SimpleData name="hours">Friday 2.00pm-6.00pm</SimpleData>
+		<SimpleData name="contact">Sr. Marie Madeline
+Tel: 212-876-5855</SimpleData>
+		<SimpleData name="address">2290 1st Avenue 
+New York, NY 10035</SimpleData>
+		<SimpleData name="lat">40.7970297</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9343397,40.7970297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harlem Community Nutritional Services</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Food Pantry</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.9472409</SimpleData>
+		<SimpleData name="hours">Monday-Friday 10.00am-2.00pm; </SimpleData>
+		<SimpleData name="contact">Rev. Ozzie Edwards
+Tel: 212-666-7538</SimpleData>
+		<SimpleData name="address">132 West 125th Street Room 503
+New York, NY 10027</SimpleData>
+		<SimpleData name="lat">40.8082615</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9472409,40.8082615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harvest of Souls/Holy Ghost</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Food Pantry</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.9416815</SimpleData>
+		<SimpleData name="hours">Friday 12.00pm-2.00pm</SimpleData>
+		<SimpleData name="contact">Terry Randolph
+Tel: 212-230-8863</SimpleData>
+		<SimpleData name="address">13-15 East 125th Street 
+New York, NY 10035</SimpleData>
+		<SimpleData name="lat">40.8061937</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9416815,40.8061937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Iglesia Pentecostal El Maestro Inc.</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="website"></SimpleData>
+		<SimpleData name="service">Food Pantry</SimpleData>
+		<SimpleData name="notes"></SimpleData>
+		<SimpleData name="lon">-73.9370768</SimpleData>
+		<SimpleData name="hours">Wednesday and Friday 2.30pm-3.00pm</SimpleData>
+		<SimpleData name="contact">Luz Murillo
+Tel: 646-644-9870</SimpleData>
+		<SimpleData name="address">307 East 116th street 
+New York, NY 10029</SimpleData>
+		<SimpleData name="lat">40.7969304</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9370768,40.7969304</coordinates></Point>
+  </Placemark>
+</Folder>
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="website" type="string"></SimpleField>
+	<SimpleField name="service" type="string"></SimpleField>
+	<SimpleField name="notes" type="string"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="hours" type="string"></SimpleField>
+	<SimpleField name="contact" type="string"></SimpleField>
+	<SimpleField name="address" type="string"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+</Schema>
+</Document></kml>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OGRGeoJSON</name>
+  <Placemark>
+	<name>Center for Court Innovation
+Harlem Community Justice Center</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Free, cost none, Legal Programs, at risk youth, youth court</SimpleData>
+		<SimpleData name="lon">-73.9384913</SimpleData>
+		<SimpleData name="contact">212- 360-4100</SimpleData>
+		<SimpleData name="address">170 East 121st Street,New York, NY 10035</SimpleData>
+		<SimpleData name="lat">40.8013026</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9384913,40.8013026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Legal Services NYC
+Legal Assistance for Civil Issues</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Legal Services, Cost none, must meet income requirements </SimpleData>
+		<SimpleData name="lon">-73.9424134</SimpleData>
+		<SimpleData name="contact">Contact: Tracey Bing
+212-348-7449</SimpleData>
+		<SimpleData name="address">1 West 125th Street, 2nd Floor, New York, NY, 10027</SimpleData>
+		<SimpleData name="lat">40.80679</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9424134,40.80679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Legal Aid Society
+Harlem Community Law Office</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Free, cost none, Legal Programs, Representation of HIV/AIDS clients,</SimpleData>
+		<SimpleData name="lon">-73.943678</SimpleData>
+		<SimpleData name="contact">212-426-3000</SimpleData>
+		<SimpleData name="address">230 East 106th Street, New York, NY 10029</SimpleData>
+		<SimpleData name="lat">40.79083</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.943678,40.79083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mt. Sinai Hospital
+Child and Family Support Program</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Free, cost none, Legal Programs, cleints being abused or neglected</SimpleData>
+		<SimpleData name="lon">-73.9536909</SimpleData>
+		<SimpleData name="contact">Contact: Emily Banach
+212- 241- 4050</SimpleData>
+		<SimpleData name="address">1 Gustave Levy Place, New York, NY 10029</SimpleData>
+		<SimpleData name="lat">40.7899899</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9536909,40.7899899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Safe Horizon
+Manhattan Child Advocacy Center</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="service">Free, cost none, Legal Programs, cleints being abused or neglected</SimpleData>
+		<SimpleData name="lon">-73.9402653</SimpleData>
+		<SimpleData name="contact">Tiana Stowers-Pearson
+646-695-6100</SimpleData>
+		<SimpleData name="address">1753 Park Avenue, 2nd Floor, New York, NY 10035</SimpleData>
+		<SimpleData name="lat">40.8026723</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.9402653,40.8026723</coordinates></Point>
+  </Placemark>
+</Folder>
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="service" type="string"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+	<SimpleField name="contact" type="string"></SimpleField>
+	<SimpleField name="address" type="string"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+</Schema>
+</Document></kml>
