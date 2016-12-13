@@ -6,32 +6,26 @@ label: bio
 authors: Evan Misshula
 summary: Intro to Evan
 
-<p><img src="../images/EvAtWork.jpg" width="650px" alt="img" title="EvAtWork.jpg"></p>
+<p><img src="../images/newProfile.jpg" width="650px" alt="img" title="newProfile.jpg"></p>
 
 # Academic
 
-I am a substitute lecturer in the department of Math and Computer
-Science at CUNY John Jay. I serve as advisor to the Computer
-Science club and a coordinator for new undergraduate major,
-Computer Science and Information Security. I am a PhD student in
-[Criminal Justice](http://gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Criminal-Justice) at the [CUNY Graduate Center](http://gc.cuny.edu/Home).  I work part-time as
-a data scientist at the John Jay [Research and Evaluation Center](http://johnjayrec.nyc/2014/06/15/cv2014_maps/)
-where we evaluate anti-violence programs. I serve as a CUNY John
-Jay Presidential Fellow where I work on the [Misdemeanor Justice
-Project](http://www1.cuny.edu/mu/forum/2014/10/29/john-jay-college-presents-findings-on-misdemeanor-arrests-in-new-york/). At John Jay I am a member of the
-[Punishment-2-Public-Health-Academy](http://johnjay.jjay.cuny.edu/p2ph/x.asp) and the Social Network Research
-Group ([SNRG-NYC](http://snrg-nyc.org/)).  At the CUNY GC, I am a member of the Pattern
-Recognition Lab directed by Robert [Haralick](http://haralick.org/).
+I the data scientist for the [Misdemeanor Justice Project](http://MisdemeanorJustice.org). I am an
+adjucnt lecturer in the department of Math and Computer Science at
+CUNY John Jay where during Spring 2017, I will teach Programming
+Languages for Computer Science Majors. I will also be teaching data
+mananagement and descriptive statistics to NYPD Captains in John
+Jay's new NYPD Executive MA Program in Criminal Justice.  I
+am a PhD student in [Criminal Justice](http://gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Criminal-Justice) at the [CUNY Graduate Center](http://gc.cuny.edu/Home).
 
 # Advocacy and charitable work
 
-I mentor for the [College Initiative](http://www.collegeinitiative.org/ci2/), a project which helps people
-returning from prison access higher education.  Additionally, I
-serve on the Men's Advisory Board for the [Prison Visiting Project](http://www.correctionalassociation.org/pp/about-pvp)
-of Corrections Association of New York as well as the [Research
-Advisory Board](http://stage.new.nypl.org/collections/research-advisory-group) of NY Public Library. I am a member of (and have
-given at least one preentation at) the meetup groups [NYC-D3-JS](http://www.meetup.com/NYC-D3-JS/), [NYC
-Python](http://www.meetup.com/nycpython/) and [Emacsnyc.](http://emacsnyc.org/)
+Through [Columbia University's Center for Justice](http://centerforjustice.columbia.edu/) I Python to
+detainees on Rikers Island.  I also mentor for the [College
+Initiative](http://www.collegeinitiative.org/ci2/), a project which helps people returning from prison
+access higher education.  I am a member of (and have given at least one
+preentation at) the meetup groups [NYC-D3-JS](http://www.meetup.com/NYC-D3-JS/), [NYC Python](http://www.meetup.com/nycpython/) and
+[Emacsnyc.](http://emacsnyc.org/)
 
 # Resume
 
