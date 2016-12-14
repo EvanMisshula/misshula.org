@@ -10,13 +10,18 @@ summary: Intro to Evan
 
 # Academic
 
-I the data scientist for the [Misdemeanor Justice Project](http://MisdemeanorJustice.org). I am an
-adjucnt lecturer in the department of Math and Computer Science at
-CUNY John Jay where during Spring 2017, I will teach Programming
-Languages for Computer Science Majors. I will also be teaching data
-mananagement and descriptive statistics to NYPD Captains in John
-Jay's new NYPD Executive MA Program in Criminal Justice.  I
-am a PhD student in [Criminal Justice](http://gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Criminal-Justice) at the [CUNY Graduate Center](http://gc.cuny.edu/Home).
+I am currently the data scientist for the [Misdemeanor Justice
+Project](http://MisdemeanorJustice.org). The Misdemeanor Justice Project seeks to understand the
+criminal justice response to low-level offenses, from arrest to
+disposition.  I am also an adjucnt lecturer in the department of
+Math and Computer Science at CUNY John Jay where during Spring
+2017, I will teach Programming Languages for Computer Science
+Majors. I will also be teaching data mananagement and descriptive
+statistics to NYPD Captains in John Jay's new NYPD Executive MA
+Program in Criminal Justice.  I am a PhD student in [Criminal
+Justice](http://gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Criminal-Justice) at the [CUNY Graduate Center](http://gc.cuny.edu/Home). I have won fellowships from
+the CUNY Graduate Center, the University of Chicago and the
+University of Illinois at Urbana-Champaigne.
 
 # Advocacy and charitable work
 
