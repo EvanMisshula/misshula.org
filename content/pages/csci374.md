@@ -177,7 +177,20 @@ might not get to all of these in class.
 20. Concurrency
 21. Threads
 
-# Grades<a id="orgheadline9"></a>
+# Lecture Notes<a id="orgheadline9"></a>
+
+-   [lecture 1](../images/lec1.pdf)
+-   [lecture 2](../images/lec2.pdf)
+
+# Quiz<a id="orgheadline10"></a>
+
+-   [Quiz 1](../images/quiz1.pdf)
+
+# Git Repo<a id="orgheadline11"></a>
+
+-   [python intro](https://github.com/EvanMisshula/pythonIntro)
+
+# Grades<a id="orgheadline12"></a>
 
 There will a few programming assignments. The problems will be
 difficult.  There will be frequent quizzes at the beginning and end of
@@ -202,7 +215,22 @@ not to get an outstanding mark.  Do not try to game the system by not
 doing the homework and making it up on the exams.  That strategy has not 
 been successful yet.
 
-# ATTENDANCE POLICY<a id="orgheadline10"></a>
+# Tutoring<a id="orgheadline13"></a>
+
+Advanced Data Structures & Programming Languages
+(CSCI 373 & CSCI 374)
+
+Tuesday & Thursday
+1 pm to 5 pm
+Jennifer Holst
+
+Students who find that they need assistance at other times and days
+should try to set up specific appointments by contacting:
+
+Freddy Velez   freddy.velez@jjay.cuny.edu or
+Jennifer Holst  Jennifer.holst@jjay.cuny.edu
+
+# ATTENDANCE POLICY<a id="orgheadline14"></a>
 
 Students enrolled in this course are required to attend all lecture,
 recitation and laboratory sessions of the section for which they
@@ -221,7 +249,7 @@ cancelled for extraordinary circumstances, the instructor will email
 an announcement to the preferred email of enrolled students as soon as
 practicable. This has not happened in recent memory.
 
-# ACTIVE COLLEGE E-MAIL<a id="orgheadline11"></a>
+# ACTIVE COLLEGE E-MAIL<a id="orgheadline15"></a>
 
 Students are expected to maintain active and accessible college email
 and Blackboard accounts. Blackboard will be used to send emails and
@@ -240,7 +268,7 @@ email. Emails that do not contain these descriptive details may be
 considered spam, and remain unopened and unanswered. Students are
 expected to check email regularly.
 
-# ADA STATEMENT: STUDENTS WITH DISABILITIES<a id="orgheadline12"></a>
+# ADA STATEMENT: STUDENTS WITH DISABILITIES<a id="orgheadline16"></a>
 
 Qualified students with disabilities will be provided reasonable
 academic accommodations if determined appropriate by the Office of
@@ -253,7 +281,7 @@ to initiate contact with the OAS and to follow the established
 procedures for having the accommodation notice sent to both the course
 coordinator and the instructor.
 
-# ACADEMIC INTEGRITY:<a id="orgheadline13"></a>
+# ACADEMIC INTEGRITY:<a id="orgheadline17"></a>
 
 Students who succeed in this course and graduate with a degree in
 Computer Science and Information Security may be hired by government
@@ -275,7 +303,7 @@ Blackboard has a similar module called SafeAssign. Any written
 assignments submitted may be subject to evaluation by these or similar
 programs.
 
-# Acknowledgement<a id="orgheadline14"></a>
+# Acknowledgement<a id="orgheadline18"></a>
 
 Although I wanted to teach this material for a long time.  I have been
 a serial languaage learner since 2009.  My path has been Basic (1979)
