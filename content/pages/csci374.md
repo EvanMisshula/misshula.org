@@ -185,10 +185,12 @@ might not get to all of these in class.
 # Quiz<a id="orgheadline10"></a>
 
 -   [Quiz 1](../images/quiz1.pdf)
+-   [Quiz 1](../images/quiz2.pdf)
 
 # Git Repo<a id="orgheadline11"></a>
 
 -   [python intro](https://github.com/EvanMisshula/pythonIntro)
+-   [adv python](https://github.com/EvanMisshula/advpy)
 
 # Grades<a id="orgheadline12"></a>
 
