@@ -181,6 +181,10 @@ might not get to all of these in class.
 
 -   [lecture 1](../images/lec1.pdf)
 -   [lecture 2](../images/lec2.pdf)
+-   [Haskell-1](../images/hask1.pdf)
+-   [Haskell-2](../images/hask2.pdf)
+
+-   The corresponding org files are available on our google group
 
 # Quiz<a id="orgheadline10"></a>
 
