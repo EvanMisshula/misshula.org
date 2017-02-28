@@ -183,6 +183,7 @@ might not get to all of these in class.
 -   [lecture 2](../images/lec2.pdf)
 -   [Haskell-1](../images/hask1.pdf)
 -   [Haskell-2](../images/hask2.pdf)
+-   [Haskell-3](../images/hask3.pdf)
 
 -   The corresponding org files are available on our google group
 
