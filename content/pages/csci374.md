@@ -1,3 +1,30 @@
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgheadline1">1. Class info</a></li>
+<li><a href="#orgheadline2">2. Introduction</a></li>
+<li><a href="#orgheadline3">3. Location and Time</a></li>
+<li><a href="#orgheadline4">4. Texts</a></li>
+<li><a href="#orgheadline5">5. Computers in the classroom</a></li>
+<li><a href="#orgheadline6">6. What is the goal of the class?</a></li>
+<li><a href="#orgheadline7">7. Learning objectives</a></li>
+<li><a href="#orgheadline8">8. What will be covered?</a></li>
+<li><a href="#orgheadline9">9. Lecture Notes</a></li>
+<li><a href="#orgheadline10">10. IO Practice programs</a></li>
+<li><a href="#orgheadline11">11. Quiz</a></li>
+<li><a href="#orgheadline12">12. Git Repo</a></li>
+<li><a href="#orgheadline13">13. Grades</a></li>
+<li><a href="#orgheadline14">14. Tutoring</a></li>
+<li><a href="#orgheadline15">15. ATTENDANCE POLICY</a></li>
+<li><a href="#orgheadline16">16. ACTIVE COLLEGE E-MAIL</a></li>
+<li><a href="#orgheadline17">17. ADA STATEMENT: STUDENTS WITH DISABILITIES</a></li>
+<li><a href="#orgheadline18">18. ACADEMIC INTEGRITY:</a></li>
+<li><a href="#orgheadline19">19. Acknowledgement</a></li>
+</ul>
+</div>
+</div>
+
 title: CSCI-374-01
 modified: 2017-01-29
 tags: teaching, math
@@ -185,20 +212,25 @@ might not get to all of these in class.
 -   [Haskell-2](../images/hask2.pdf)
 -   [Haskell-3](../images/hask3.pdf)
 -   [Haskell-4](../images/hofcn.pdf)
+-   [Haskell-5](../images/monoid.pdf)
+
+# IO Practice programs<a id="orgheadline10"></a>
+
+-   [ioZipFile](../images/io.zip)
 
 -   The corresponding org files are available on our google group
 
-# Quiz<a id="orgheadline10"></a>
+# Quiz<a id="orgheadline11"></a>
 
 -   [Quiz 1](../images/quiz1.pdf)
 -   [Quiz 1](../images/quiz2.pdf)
 
-# Git Repo<a id="orgheadline11"></a>
+# Git Repo<a id="orgheadline12"></a>
 
 -   [python intro](https://github.com/EvanMisshula/pythonIntro)
 -   [adv python](https://github.com/EvanMisshula/advpy)
 
-# Grades<a id="orgheadline12"></a>
+# Grades<a id="orgheadline13"></a>
 
 There will a few programming assignments. The problems will be
 difficult.  There will be frequent quizzes at the beginning and end of
@@ -223,7 +255,7 @@ not to get an outstanding mark.  Do not try to game the system by not
 doing the homework and making it up on the exams.  That strategy has not 
 been successful yet.
 
-# Tutoring<a id="orgheadline13"></a>
+# Tutoring<a id="orgheadline14"></a>
 
 Advanced Data Structures & Programming Languages
 (CSCI 373 & CSCI 374)
@@ -238,7 +270,7 @@ should try to set up specific appointments by contacting:
 Freddy Velez   freddy.velez@jjay.cuny.edu or
 Jennifer Holst  Jennifer.holst@jjay.cuny.edu
 
-# ATTENDANCE POLICY<a id="orgheadline14"></a>
+# ATTENDANCE POLICY<a id="orgheadline15"></a>
 
 Students enrolled in this course are required to attend all lecture,
 recitation and laboratory sessions of the section for which they
@@ -257,7 +289,7 @@ cancelled for extraordinary circumstances, the instructor will email
 an announcement to the preferred email of enrolled students as soon as
 practicable. This has not happened in recent memory.
 
-# ACTIVE COLLEGE E-MAIL<a id="orgheadline15"></a>
+# ACTIVE COLLEGE E-MAIL<a id="orgheadline16"></a>
 
 Students are expected to maintain active and accessible college email
 and Blackboard accounts. Blackboard will be used to send emails and
@@ -276,7 +308,7 @@ email. Emails that do not contain these descriptive details may be
 considered spam, and remain unopened and unanswered. Students are
 expected to check email regularly.
 
-# ADA STATEMENT: STUDENTS WITH DISABILITIES<a id="orgheadline16"></a>
+# ADA STATEMENT: STUDENTS WITH DISABILITIES<a id="orgheadline17"></a>
 
 Qualified students with disabilities will be provided reasonable
 academic accommodations if determined appropriate by the Office of
@@ -289,7 +321,7 @@ to initiate contact with the OAS and to follow the established
 procedures for having the accommodation notice sent to both the course
 coordinator and the instructor.
 
-# ACADEMIC INTEGRITY:<a id="orgheadline17"></a>
+# ACADEMIC INTEGRITY:<a id="orgheadline18"></a>
 
 Students who succeed in this course and graduate with a degree in
 Computer Science and Information Security may be hired by government
@@ -311,7 +343,7 @@ Blackboard has a similar module called SafeAssign. Any written
 assignments submitted may be subject to evaluation by these or similar
 programs.
 
-# Acknowledgement<a id="orgheadline18"></a>
+# Acknowledgement<a id="orgheadline19"></a>
 
 Although I wanted to teach this material for a long time.  I have been
 a serial languaage learner since 2009.  My path has been Basic (1979)
