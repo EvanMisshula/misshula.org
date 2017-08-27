@@ -12,7 +12,7 @@ DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = [('Bio','/pages/bio.html'),
              ('Academic','/pages/academic.html'),
              ('Contact','/pages/contact.html'),
-             ('CSCI-374','/pages/CSCI374-01.html'),
+             ('CSCI-380','/pages/CSCI380-01.html'),
 ]
 
 TIMEZONE = 'US/Eastern'
